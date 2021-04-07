@@ -5,7 +5,7 @@
 **Author: u/thr0wthis4ccount4way/**
 
 ### Do your part!
-- [Shorts may be borrowing your shares to short-sell them and drive the price down. Make sure you change settings and call your broker to OPT-OUT0(https://www.reddit.com/r/wallstreetbets/comments/l2n5wv/most_of_you_are_helping_the_gme_shorts_and_you/)
+- [Shorts may be borrowing your shares to short-sell them and drive the price down. Make sure you change settings and call your broker to OPT-OUT](https://www.reddit.com/r/wallstreetbets/comments/l2n5wv/most_of_you_are_helping_the_gme_shorts_and_you/)
 
 - [Stop using brokers that halted trading - List of good, neutral (forced), and bad](https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/)
 
