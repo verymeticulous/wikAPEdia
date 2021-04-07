@@ -25,6 +25,7 @@ Send me DD as a chat message and comment.
 [Read removed threads from WSB with a URL switch.](https://www.reddit.com/r/GME/comments/ljtjeg/we_can_read_removed_threads_from_wsb_with_a/)
 
 [REPORT SHILLS](https://www.reddit.com/r/GME/comments/liel9g/dont_forget_to_report_shills/)
+- [How to spot shill 101 Part 1](https://www.reddit.com/r/GME/comments/ml904y/after_all_the_recent_drama_i_felt_it_was_fair_to/) - **Author: [u/uberfunstuff](https://www.reddit.com/user/uberfunstuff/)**
 
 
 
