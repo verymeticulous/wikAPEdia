@@ -38,6 +38,6 @@ Follow for information
 
 [u/WardenElite](https://twitter.com/warden_elite/) for live charting
 
-Twitter accounts to follow for news & DD
+[Twitter accounts to follow for news & DD](https://www.reddit.com/r/GME/comments/mdhj3x/top_18_gme_twitter_accounts_to_follow_asap/)
 
 **Note: Moving resources to its own folder**
