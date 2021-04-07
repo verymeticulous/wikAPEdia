@@ -1,5 +1,4 @@
-# I like the stonk
-## A central place for apes to learn about stonks. This is not financial advice.
+# A central place for apes to learn about stonks. This is not financial advice.
 
 ## Doing Your Part, Tools & Resources Section
 **Author: u/thr0wthis4ccount4way/**
