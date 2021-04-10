@@ -8,7 +8,7 @@
 
 - [Stop using brokers that halted trading - List of good, neutral (forced), and bad](https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/)
 
--If you are stuck on one of these brokers, I recommend you call up another broker to check whether you would be allowed to sell during the transfer process. I am in the middle of a transfer and the receiving broker informed me that there will only be 2 days where I cannot sell (called the settlement cycle days) and normally takes a week to sell a common company stock from NYSE
+- If you are stuck on one of these brokers, I recommend you call up another broker to check whether you would be allowed to sell during the transfer process. I am in the middle of a transfer and the receiving broker informed me that there will only be 2 days where I cannot sell (called the settlement cycle days) and normally takes a week to sell a common company stock from NYSE
 
 💎 Updated: [e-mail your representatives now!](https://medium.com/@BraveNewFilms.org/heres-how-to-contact-all-535-members-of-united-states-congress-call-email-tweet-20b8a1c54195)
 
@@ -24,12 +24,11 @@ Send me DD as a chat message and comment.
 
 [Read removed threads from WSB with a URL switch.](https://www.reddit.com/r/GME/comments/ljtjeg/we_can_read_removed_threads_from_wsb_with_a/)
 
-[REPORT SHILLS](https://www.reddit.com/r/GME/comments/liel9g/dont_forget_to_report_shills/)
+### [REPORT SHILLS](https://www.reddit.com/r/GME/comments/liel9g/dont_forget_to_report_shills/)
 - [How to spot shill 101 Part 1](https://www.reddit.com/r/GME/comments/ml904y/after_all_the_recent_drama_i_felt_it_was_fair_to/) - **Author: [u/uberfunstuff](https://www.reddit.com/user/uberfunstuff/)**
 
+### Follow for information
 
-
-Follow for information
 [u/Rensole](https://www.reddit.com/u/Rensole/) for the daily morning news
 
 [u/Corno4825](https://www.reddit.com/u/Corno4825/) for his live updates
