@@ -1,16 +1,20 @@
 # Resources: Tools
-- [Useful spreadsheet to track and analyze stocks](https://www.reddit.com/r/stocks/comments/lelm2h/stock_tracker_and_analysis_speadsheet/)
 
-- [Read removed threads from WSB](https://www.reddit.com/r/GME/comments/ljtjeg/we_can_read_removed_threads_from_wsb_with_a/)
+**Author: [u/Truffluscious](https://www.reddit.com/user/Truffluscious/)**
 
-- [Monitor FTDs](https://wherearetheshares.com/)
+| Name | Description |
+| ----- | ----------- |
+| [iborrowdesk](https://iborrowdesk.com/report/GME) | helps you keep track of available shorts |
+| [Stonk-O-Tracker](https://gme.crazyawesomecompany.com/) | pools some helpful information on available shorts, current share price, ITM/OTM options |
+| [US Senate Stock Tracker](https://senatestockwatcher.com/) | A cool tool by [u/rambat1994](https://www.reddit.com/u/rambat1994/) to track stock trades of the US Senate Member |
+| [US House of Representatives Stock Tracker](https://housestockwatcher.com/) | Another neat tool by [u/rambat1994](https://www.reddit.com/u/rambat1994/) for tracking trades, but this time the US House of Representatives |
+| [Off-Exchange Dashboard](https://www.quiverquant.com/offexchange/?utm_medium=email&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;_hsmi=2&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;_hsenc=p2ANqtz-80gg0TzU_7WoESGaRK3XURNXbXaotroWpkjK4kRUdPlNu9VtYwE2Ng1v5T-B8o5NaDD3SLk-m7sLdS7vhTm5UrzYxmKg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_content=2&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_source=hs_email) | a tool by [u/pwdp90](https://www.reddit.com/u/pwdp90/) to track trades and short sales that take place off market |
+| [The Buffet Indicator](https://currentmarketvaluation.com/models/buffett-indicator.php) | The Buffett Indicator is the ratio of total United States stock market valuation to GDP. Currently: Strongly Overvalued 📉 |
+| [wherearetheshares](https://wherearetheshares.com/) | a tool to monitor FTDs |
+| [gme.crazyawesomecompany](https://gme.crazyawesomecompany.com/) | GME multi-tool for tracking and analysis |
+| [NASDAQ Real-time Trades](https://www.nasdaq.com/market-activity/stocks/gme/latest-real-time-trades) | monitor live trades |
+| [S&P 500 heatmap](https://finviz.com/map.ashx) | useful to observe on a red day when HFs are liquidating |
 
-- [Monitor no of shares available to borrow for short-sellers](https://iborrowdesk.com/report/GME)
 
-- [Monitor LIVE trades](https://www.nasdaq.com/market-activity/stocks/gme/latest-real-time-trades)
 
-- [Monitor LIVE Order Books](https://www.reddit.com/r/Wallstreetbetslevel2/)
 
-- [GME tracker multitool](https://gme.crazyawesomecompany.com/)
-
-- [S&P 500 heatmap](https://finviz.com/map.ashx) - useful to observe on a red day when HFs are liquidating
