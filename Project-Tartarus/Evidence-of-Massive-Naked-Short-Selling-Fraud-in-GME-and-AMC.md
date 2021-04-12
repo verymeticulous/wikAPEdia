@@ -76,3 +76,7 @@ This is not financial advice. I eat crayons and paste.
 Positions: 100 GME @ $36, 500 AMC @ $2.75 (but I wrote $3 calls before it mooned... GUH)
 
 If anyone wants to play around with the code or data I used to generate the first plot (monthly normalized failure to deliver data), [I put it on GitHub](https://github.com/bobsomers/evidence_of_naked_short_fraud_in_gme_and_amc).
+
+**References**
+- https://www.stonking.info/post/evidence-that-gme-shorts-are-not-covering
+- https://tradesmithdaily.com/investing-strategies/the-drop-in-gamestop-short-interest-could-be-real-or-deceptive-market-manipulation/ 
