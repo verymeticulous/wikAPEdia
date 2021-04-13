@@ -10,6 +10,8 @@ What would I do in the event that Reddit crashes?
 
 This is exactly what you would expect to happen as your fellow apes have been discussing for quite some time. Take a deep breathe, regain your composure, [check off your bingo card](https://www.reddit.com/r/Superstonk/comments/mpadm6/its_time_to_play_bingo_of_the_week/) and strap in for a bumpy ride.
 
+Edit: A wrinkle-brained ape [u/710dabner](https://www.reddit.com/user/710dabner/) makes a good point to check [Reddit's status](https://mobile.twitter.com/redditstatus) on Twitter to confirm that it's down.
+
 ## Step 2: Check other Social Media Outlets
 
 For Twitter, you do not need an account to view tweets. However, you will not be able to see comments on a tweet without an account.
@@ -26,6 +28,7 @@ You **do** need an account for Discord.
 |[Rensole](https://twitter.com/rensole?)|[AndrewMoMoney](https://www.youtube.com/channel/UC23emuGbNM7twofQIrEgPBQ) \*\*|~~GME~~ \* (Looks like the discord is locked down)|
 |[HeyItsPixel](https://twitter.com/HeyItsPixel1?)|[Uncle Bruce](https://www.youtube.com/channel/UCYNM_dInWi_glMZT3gxqxPQ)|[Superstonk](https://www.reddit.com/r/Superstonk/wiki/index#wiki_.1F98D_discord) (TBD)|
 |[WardenElite](https://twitter.com/warden_elite?)|||
+|[RedChessQueen](https://twitter.com/RedChessQueen99)|||
 
 \*May be compromised
 
@@ -54,3 +57,5 @@ Remember, there are many great DDs explaining how the MOASS will last for days, 
 ## Step 4: Hang in there
 
 **Repeat step 1**. Grab some popcorn, your favorite beverage, and enjoy the wild ride. Tendies are closer than they have ever been.
+
+Edit 2: **TLDR:** As many apes with zero attention span pointed out, HODL 💎🤲
