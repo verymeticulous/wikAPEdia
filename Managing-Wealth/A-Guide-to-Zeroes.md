@@ -115,4 +115,4 @@ Ratio it down if you have to. Divide their billions by 100k and your gains by th
 
 Don't feel greedy, you aren't. They created the game and you figured out the rules.
 
-Finally: read this and protect your money you peasant <https://www.reddit.com/r/wallstreetbets/comments/m3i8kc/how_to_keep_your_newly_minted_title_of_millionaire/>
+Finally: read this and protect your money you peasant <https://www.removeddit.com/r/wallstreetbets/comments/m3i8kc/how_to_keep_your_newly_minted_title_of_millionaire/>
