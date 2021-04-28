@@ -28,6 +28,8 @@ Secondly, Here are some definitions of Key Lingo used (in alphabetical order):
 
 **DTCC** (or its subsidiary NSCC): the clearance corporation (biggest player worth $63Trillion)
 
+**FTD**: Failure to Deliver; a situation where one party is not able to meet their trading obligations (e.g. when a short position does not own any or all assets required at settlement)
+
 **FUD**: Fear, Uncertainty and Doubt - negative sentiment that is meant to discourage shareholders from buying / holding
 
 **FOMO**: A fear of missing out trade occurs when you notice a sharp rally or slump in a stock, and the desire to join in on the price movement
