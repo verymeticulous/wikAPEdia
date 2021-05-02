@@ -1,7 +1,12 @@
 Why $10,000 per share is just a stop along the way...
 =====================================================
 
-**Author: [u/ChristianRauchenwald](https://www.reddit.com/user/ChristianRauchenwald/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ChristianRauchenwald](https://www.reddit.com/user/ChristianRauchenwald/)| [Reddit](https://www.reddit.com/r/GME/comments/m6cebh/why_10000_per_share_is_just_a_stop_along_the_way/) | 
+
+---
+
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
