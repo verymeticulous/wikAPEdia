@@ -1,7 +1,11 @@
 The Interstellar Yoyo ⭐🪀⭐
 ==========================
 
-**AuthorL [u/dirkson](https://www.reddit.com/user/dirkson/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/dirkson](https://www.reddit.com/user/dirkson/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/le6v6v/the_interstellar_yoyo/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
