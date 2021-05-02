@@ -1,8 +1,10 @@
 # How to Read Candles
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)** 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n1g617/predicting_gme_price_action_with_elliot_waves_430/) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/n1g617/predicting_gme_price_action_with_elliot_waves_430/)**
+---
 
 ![](https://preview.redd.it/5n3cc5e5r6w61.png?width=1264&format=png&auto=webp&s=8a0100190f4e392022e93493b6637ba5b21d132b)
 
