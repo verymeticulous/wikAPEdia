@@ -1,6 +1,10 @@
 # Three possible ways how GME plays out according to Elliott Wave Theory
 
-**Author: [u/ChristianRauchenwald](https://www.reddit.com/user/ChristianRauchenwald/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ChristianRauchenwald](https://www.reddit.com/user/ChristianRauchenwald/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mnezu9/three_possible_ways_how_gme_plays_out_according/) | 
+
+---
 
 it's been a while since I provided an update here, but finally, there is something worth posting about going on.
 
