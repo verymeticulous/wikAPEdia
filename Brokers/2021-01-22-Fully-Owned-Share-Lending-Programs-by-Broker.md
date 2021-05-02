@@ -1,7 +1,11 @@
 Most of you are helping the GME shorts and you don't even know it
 =================================================================
 
-**Author: [u/CalamariAce](https://www.reddit.com/user/CalamariAce/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/CalamariAce](https://www.reddit.com/user/CalamariAce/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l2n5wv/most_of_you_are_helping_the_gme_shorts_and_you/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
