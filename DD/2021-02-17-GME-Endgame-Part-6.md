@@ -1,8 +1,12 @@
 # [GME - EndGame part 6: The Big Reset, or The Greatest Financial Crime of the Century - and how to play GME going forward](https://www.reddit.com/r/wallstreetbets/comments/lm0s6v/gme_endgame_part_6_the_big_reset_or_the_greatest/)
 
-[DD](https://www.reddit.com/r/wallstreetbets/)
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/lm0s6v/gme_endgame_part_6_the_big_reset_or_the_greatest/) | 
 
-**Author: [FatAspirations](https://www.reddit.com/user/FatAspirations)**
+---
+
+[DD](https://www.reddit.com/r/wallstreetbets/)
 
 This is an extension of my DD series on GME. I have been investing in, learning about, and following GME since September 2020, and in that time I have learned many things. It is also likely my last post on GME for a while as I find myself repeating key points, and others are doing excellent DD on GME in the meantime.
 
