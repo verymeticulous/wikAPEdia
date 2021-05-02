@@ -1,6 +1,10 @@
 # GME - EndGame part 5: They couldn't win, so they cheated. Why you should leave Robinhood.
 
-**Author: [u/FatAspirations](https://www.reddit.com/user/FatAspirations)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l7clyl/gme_endgame_part_5_they_couldnt_win_so_they/) | 
+
+---
 
 This is an extension of my DD series on GME. If you haven't read them and have time, they will provide some background. In this post, I will discuss how shorts manipulated the market to score a massive victory today. There is a mass attack in mainstream media to try and portray retail traders as violating the rules, when in essence it's the guys on the other side who are manipulating.
 
