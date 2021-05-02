@@ -1,6 +1,10 @@
-**[Source](https://www.investopedia.com/articles/active-trading/020915/mustknow-simple-effective-exit-trading-strategies.asp)**
-
 # Simple and Effective Exit Trading Strategies
+
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [Alan Farley](https://www.investopedia.com/contributors/53687/) | [Investopedia](https://www.investopedia.com/articles/active-trading/020915/mustknow-simple-effective-exit-trading-strategies.asp) | 
+
+---
 
 Traders spend hours fine-tuning entry strategies but then blow out their accounts taking bad exits. In fact, most of us lack [effective exit planning](https://www.investopedia.com/investing/understanding-exit-strategies/), often getting shaken out at the worst possible price. We can remedy this oversight with classic strategies that can enhance profitability. Before we jump into the strategies, we'll start with a look at why the holding period is so important. Then we'll move into the misunderstood concept of [market timing](https://www.investopedia.com/terms/m/markettiming.asp), then move on to stop and scaling methods that protect profits and reduce losses.
 
