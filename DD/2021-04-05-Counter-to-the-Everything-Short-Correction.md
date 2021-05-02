@@ -1,5 +1,10 @@
 # The Counter to the Everything Short Correction
-**Author: [u/karasuuchiha](https://www.reddit.com/user/karasuuchiha/)**
+
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/karasuuchiha](https://www.reddit.com/user/karasuuchiha/)| [Reddit](https://www.reddit.com/r/GME/comments/ml2w7u/the_counter_to_the_everything_short_correction/) | 
+
+---
 
 Intro
 
