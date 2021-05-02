@@ -1,7 +1,11 @@
 True value of a GME share UPDATE - $25M+ PER SHARE.
 ===================================================
 
-**Author: [u/AlternativeNo2917](https://www.reddit.com/user/AlternativeNo2917/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/AlternativeNo2917](https://www.reddit.com/user/AlternativeNo2917/) | [Reddit](https://www.reddit.com/r/GME/comments/mgryec/true_value_of_a_gme_share_update_25m_per_share/) | 
+
+---
 
 [Discussion 🦍](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%20%F0%9F%A6%8D%22&restrict_sr=1)
 
