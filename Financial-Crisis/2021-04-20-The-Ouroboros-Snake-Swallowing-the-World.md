@@ -1,7 +1,11 @@
 The Ouroboros Snake Swallowing the World - The Floor is 250 Million Part Trillion
 =================================================================================
 
-**Author: [u/somechicktho](https://www.reddit.com/user/somechicktho/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/somechicktho](https://www.reddit.com/user/somechicktho/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
