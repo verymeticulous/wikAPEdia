@@ -1,7 +1,11 @@
 GME Short Squeeze What Comes Next Part 3
 ========================================
 
-**Author: [u/](https://www.reddit.com/user/hooman_or_whatever/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/hooman_or_whatever](https://www.reddit.com/user/hooman_or_whatever/) | [Reddit](https://www.reddit.com/r/stocks/comments/lgkm5t/gme_short_squeeze_what_comes_next_part_3/) | 
+
+---
 
 [Company Discussion](https://www.reddit.com/r/stocks/search?q=flair_name%3A%22Company%20Discussion%22&restrict_sr=1)
 
