@@ -1,9 +1,11 @@
 GME - EndGame: DTC Infinity.
 ============================
 
-**Author:[u/FatAspirations](https://www.reddit.com/user/FatAspirations/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/kwb827/gme_endgame_dtc_infinity/) | 
 
-[DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
+---
 
 Hello again folks. I've taken some time to do my own DD on GME and sharing it with you, in addition to all the other great DD out there. I'm going to cover shorts, debt, and what I think might accelerate GME's mission to Mars.
 
