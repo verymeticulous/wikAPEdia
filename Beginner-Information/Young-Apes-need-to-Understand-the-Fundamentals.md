@@ -1,7 +1,11 @@
 Young apes need to understand the fundamentals. For all of you that bough GME recently, please have a quick read and don't hesitate to ask questions. Obligatory 🚀🚀🚀
 =======================================================================================================================================================================
 
-**Author: [u/karamster](https://www.reddit.com/user/karamster/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/karamster](https://www.reddit.com/user/karamster/) | [Reddit](https://www.reddit.com/r/GME/comments/md0bsl/young_apes_need_to_understand_the_fundamentals/) | 
+
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
