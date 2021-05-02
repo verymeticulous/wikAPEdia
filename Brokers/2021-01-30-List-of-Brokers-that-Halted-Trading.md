@@ -1,6 +1,10 @@
 # Weekend GME Thread + Homework for all: Let's stop using brokerages that halted trading
 
-**Author: [u/CriticDanger](https://www.reddit.com/user/CriticDanger)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/CriticDanger](https://www.reddit.com/user/CriticDanger) | [Reddit](https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/) | 
+
+---
 
 Hello all,
 
