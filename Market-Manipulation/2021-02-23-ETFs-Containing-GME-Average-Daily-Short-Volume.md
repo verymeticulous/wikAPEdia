@@ -1,7 +1,11 @@
 ETF's Containing GME Average Daily Short Volume
 ===============================================
 
-**Author: [u/ResponsibleGunOwners](https://www.reddit.com/user/ResponsibleGunOwners/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ResponsibleGunOwners](https://www.reddit.com/user/ResponsibleGunOwners/) | [Reddit](https://www.reddit.com/r/GME/comments/lr33yp/etfs_containing_gme_average_daily_short_volume/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
