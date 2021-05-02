@@ -1,9 +1,11 @@
 BREAKING - Credit Suisse involved in the latest margin call
 ===========================================================
 
-**Author: [u/notoriousFlash](https://www.reddit.com/user/notoriousFlash/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/notoriousFlash](https://www.reddit.com/user/notoriousFlash/)| [Reddit](https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/)**
+---
 
 [News](https://www.reddit.com/r/GME/search?q=flair_name%3A%22News%22&restrict_sr=1)
 
