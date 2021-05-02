@@ -1,7 +1,11 @@
 Why GameStop was going to cause a collapse of the entire market, and why it is still going to:
 ==============================================================================================
 
-**Author: [u/arxannn](https://www.reddit.com/user/arxannn/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/arxannn](https://www.reddit.com/user/arxannn/)| [Reddit](https://www.reddit.com/r/GME/comments/lnxcio/why_gamestop_was_going_to_cause_a_collapse_of_the/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
