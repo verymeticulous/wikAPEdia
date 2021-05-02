@@ -1,9 +1,11 @@
 SOME DEEP ITM CALLS WERE BOUGHT TODAY: THE FINAL HURRAH
 =======================================================
 
-**Author: [u/Dan_Bren](https://www.reddit.com/user/Dan_Bren/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Dan_Bren](https://www.reddit.com/user/Dan_Bren/) | [Reddit](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
