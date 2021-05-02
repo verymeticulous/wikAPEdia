@@ -1,7 +1,11 @@
 You're buying based on gut feeling, selling on gut feeling. Why do you hate money? Technicals 101 for beginners.
 ================================================================================================================
 
-**Author: [u/DaySwingTrade](https://www.reddit.com/user/DaySwingTrade/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/DaySwingTrade](https://www.reddit.com/user/DaySwingTrade/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/mabmyk/youre_buying_based_on_gut_feeling_selling_on_gut/) | 
+
+---
 
 [Technical Analysis](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22Technical%20Analysis%22&restrict_sr=1)
 
