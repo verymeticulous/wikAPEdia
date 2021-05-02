@@ -1,8 +1,11 @@
 # Trading exit strategies: a complete guide for traders
 
-**Author: [Becca Cattlin](https://www.ig.com/en/profile/becca-cattlin)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [Becca Cattlin](https://www.ig.com/en/profile/becca-cattlin)| [ig.com](https://www.ig.com/en/trading-strategies/trading-exit-strategies--a-complete-guide-for-traders-210208) | 
 
-**[Source](https://www.ig.com/en/trading-strategies/trading-exit-strategies--a-complete-guide-for-traders-210208)**
+---
+
 
 ## There are two ways to exit a trade: taking a profit and taking a loss. Discover how to manage your trades to reduce your risk of exiting a trade with losses.
 
