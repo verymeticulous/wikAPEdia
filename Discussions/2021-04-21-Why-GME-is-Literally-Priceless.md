@@ -1,7 +1,11 @@
 Holy shit. I was skeptical of all the high ceilings being thrown out until I put the pieces together. I honestly think GME is priceless, and the most valuable stock you will ever buy. Here's the full picture, as I understand it...
 ======================================================================================================================================================================================================================================
 
-**Author: [u/missing_the_point_](https://www.reddit.com/user/missing_the_point_/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/missing_the_point_](https://www.reddit.com/user/missing_the_point_/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
