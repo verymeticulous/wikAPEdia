@@ -1,9 +1,11 @@
 Holy smokes!!! This is the way. I think I found the missing shorts in my equation.
 ==================================================================================
 
-**Author: [u/Gloomy-Huckleberry-](https://www.reddit.com/user/Gloomy-Huckleberry-6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Gloomy-Huckleberry-6](https://www.reddit.com/user/Gloomy-Huckleberry-6/) | [Reddit](https://www.reddit.com/r/GME/comments/mfgo1i/holy_smokes_this_is_the_way_i_think_i_found_the/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mfgo1i/holy_smokes_this_is_the_way_i_think_i_found_the/)**
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
