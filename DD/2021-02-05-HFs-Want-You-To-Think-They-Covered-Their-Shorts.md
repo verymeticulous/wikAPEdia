@@ -1,7 +1,11 @@
 Analysis on Why Hedge Funds Didn't Reposition Last Thursday, Why They Didn't Cover on Friday, and Why They Want You to Think They Did. (GME)
 ============================================================================================================================================
 
-**Author: [u/RubinoffButtChug69](https://www.reddit.com/user/RubinoffButtChug69/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/RubinoffButtChug69](https://www.reddit.com/user/RubinoffButtChug69/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/ldjbg1/analysis_on_why_hedge_funds_didnt_reposition_last/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
