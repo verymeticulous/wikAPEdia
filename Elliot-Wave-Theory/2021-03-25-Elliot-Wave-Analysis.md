@@ -1,7 +1,11 @@
 3/25 Elliott Wave EOD - VERY Strong moves to upside; Motive waves underway with strong volume
 =============================================================================================
 
-**Author: [u/head4headsup](https://www.reddit.com/user/head4headsup/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/head4headsup](https://www.reddit.com/user/head4headsup/) | [Reddit](https://www.reddit.com/r/GME/comments/mdf13w/325_elliott_wave_eod_very_strong_moves_to_upside/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
