@@ -1,9 +1,11 @@
 Not All Calls are Friendlies
 ============================
 
-**Author: Wuz**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  **Author: Wuz**| [Reddit](https://www.reddit.com/r/GME/comments/m33en4/not_all_calls_are_friendlies/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/m33en4/not_all_calls_are_friendlies/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
