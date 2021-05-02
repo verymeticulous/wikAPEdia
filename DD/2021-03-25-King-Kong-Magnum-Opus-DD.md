@@ -1,11 +1,11 @@
 King Kong: Magnum Opus DD (posted on behalf of Wuz)
 ===================================================
 
-**Author: Wuz**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| **Author: Wuz** <br /> Posted by: [u/beowulf77](https://www.reddit.com/user/beowulf77/)| [Reddit](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/) | 
 
-**Posted by: [u/beowulf77](https://www.reddit.com/user/beowulf77/)**
-
-**[Source](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
