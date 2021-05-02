@@ -1,7 +1,11 @@
 🚨📺 STONKY NEWS ~SPECIAL REPORT 📺🚨 Dr. Susanne Trimbath AMA Transcription and summary, with supporting materials (and memes) PART:2
 ======================================================================================================================================
 
-**Author: [u/Bye_Triangle](https://www.reddit.com/user/Bye_Triangle/)**
+| Author       | Source       | Twitter  |
+| :-------------: |:-------------:|:-----:|
+|  [u/Bye_Triangle](https://www.reddit.com/user/Bye_Triangle/)  | [Reddit](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/) | [Susanne Trimbath PhD](https://twitter.com/SusanneTrimbath?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
+
+---
 
 [Education 👨‍🏫 | Data 🔢](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Education%20%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20%7C%20Data%20%F0%9F%94%A2%22&restrict_sr=1)
 
