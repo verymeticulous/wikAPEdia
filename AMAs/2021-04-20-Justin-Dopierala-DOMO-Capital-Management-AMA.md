@@ -1,9 +1,13 @@
 OFFICIAL AMA - Justin Dopierala, Founder and President of DOMO Capital Management LLC - 4/20 @ 4:20 p.m. CT
 ===========================================================================================================
 
-**Author: [u/AutoModerator](https://www.reddit.com/user/AutoModerator/)**
+| Author       | Source       | Twitter  |
+| :-------------: |:-------------:|:-----:|
+| [r/SuperStonk](https://www.reddit.com/r/Superstonk/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mtnian/official_ama_justin_dopierala_founder_and/) | [DOMO Capital](https://twitter.com/DOMOCAPITAL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mtnian/official_ama_justin_dopierala_founder_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
+
+**[YouTube Stream](https://www.youtube.com/watch?v=lSSajuW0kQI)**
 
 OC[AMA 🏆](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22AMA%20%F0%9F%8F%86%22&restrict_sr=1)
 
