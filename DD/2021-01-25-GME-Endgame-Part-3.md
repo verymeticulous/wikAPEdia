@@ -1,7 +1,11 @@
 GME EndGame part 3: A new opponent enters the ring
 ==================================================
 
-**Author: [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l528pz/gme_endgame_part_3_a_new_opponent_enters_the_ring/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
