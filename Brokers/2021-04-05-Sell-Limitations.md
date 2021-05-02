@@ -1,6 +1,10 @@
 # 28 (And Counting) Brokers and their sell limitations, if any
 
-**Author: [u/NHNE](https://www.reddit.com/user/NHNE/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/NHNE](https://www.reddit.com/user/NHNE/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/ml2lnw/28_and_counting_brokers_and_their_sell/) | 
+
+---
 
 Couldn't post this on [r/GME](https://www.reddit.com/r/GME/) cuz it kept on getting auto removed:
 
