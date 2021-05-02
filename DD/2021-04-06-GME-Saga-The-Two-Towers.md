@@ -1,5 +1,10 @@
 # A GME Saga: The Two Towers
-**Author: u/Turdfurg23**
+
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Turdfurg23](https://www.reddit.com/user/Turdfurg23/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mldoej/a_gme_saga_the_two_towers/) | 
+
+---
 
 First, I'm not a financial advisor and all of this is a combination of opinion research articles and a great deal of research by others.
 
