@@ -3,7 +3,7 @@ King Kong: Magnum Opus DD (posted on behalf of Wuz)
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-| **Author: Wuz** <br /> Posted by: [u/beowulf77](https://www.reddit.com/user/beowulf77/)| [Reddit](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/) | 
+|  **Wuz** posted by [u/beowulf77](https://www.reddit.com/user/beowulf77/) | [Reddit](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/) | 
 
 ---
 
