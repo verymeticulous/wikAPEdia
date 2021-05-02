@@ -1,9 +1,11 @@
 JPMorgan to Sell $13 Billion of Bonds in Largest Bank Sale Ever
 ===============================================================
 
-**Author: [u/Captain_Omar](https://www.reddit.com/user/Captain_Omar/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Captain_Omar](https://www.reddit.com/user/Captain_Omar/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [News 📰 | Media 📱](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22News%20%F0%9F%93%B0%20%7C%20Media%20%F0%9F%93%B1%22&restrict_sr=1)
 
