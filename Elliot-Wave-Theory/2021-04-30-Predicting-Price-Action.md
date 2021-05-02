@@ -1,7 +1,11 @@
 Predicting GME Price Action With Elliot Waves 4/30 🚀
 =====================================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n1g617/predicting_gme_price_action_with_elliot_waves_430/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
