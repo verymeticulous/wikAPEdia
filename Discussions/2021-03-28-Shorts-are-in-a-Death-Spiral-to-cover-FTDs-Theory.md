@@ -1,9 +1,11 @@
 I Was Missing a KEY Piece of the Puzzel. This is how HFTs are covering FTDs and Why the TD TOS "Bugs" are NOT What We Think They Are.
 =====================================================================================================================================
 
-**Author: [u/jsmar18](https://www.reddit.com/user/jsmar18/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
