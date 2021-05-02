@@ -1,9 +1,11 @@
 Citadel Investment Company Act of 1940 Exemption. An in depth look.
 ===================================================================
 
-**Author: [u/Kilverado](https://www.reddit.com/user/Kilverado/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Kilverado](https://www.reddit.com/user/Kilverado/) | [Reddit](https://www.reddit.com/r/GME/comments/mde1l7/citadel_investment_company_act_of_1940_exemption/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mde1l7/citadel_investment_company_act_of_1940_exemption/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
