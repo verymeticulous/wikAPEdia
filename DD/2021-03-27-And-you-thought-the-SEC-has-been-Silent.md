@@ -1,9 +1,11 @@
 And you thought the SEC has been silent
 =======================================
 
-**Author: [u/Current-Information7](https://www.reddit.com/user/Current-Information7/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Current-Information7](https://www.reddit.com/user/Current-Information7/) | [Reddit](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/)**
+---
 
 [News](https://www.reddit.com/r/GME/search?q=flair_name%3A%22News%22&restrict_sr=1)
 
