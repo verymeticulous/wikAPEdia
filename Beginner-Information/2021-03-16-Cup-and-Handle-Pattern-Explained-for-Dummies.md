@@ -1,7 +1,11 @@
 The Cup And Handle Pattern Explained For Dummies 🚀
 ===================================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/GME/comments/m6qx4b/the_cup_and_handle_pattern_explained_for_dummies/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
