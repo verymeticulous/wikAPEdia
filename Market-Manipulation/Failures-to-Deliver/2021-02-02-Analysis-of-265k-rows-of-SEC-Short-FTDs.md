@@ -1,7 +1,11 @@
 Data-Driven DD: I analyzed 265,000 rows of SEC Short Fails-to-Deliver data so you don't have to! (Extremely important data for Counterfeit Stock theories)
 ==========================================================================================================================================================
 
-**Author [u/556YEETO](https://www.reddit.com/user/556YEETO/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/556YEETO](https://www.reddit.com/user/556YEETO/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/lb8hjc/datadriven_dd_i_analyzed_265000_rows_of_sec_short/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 

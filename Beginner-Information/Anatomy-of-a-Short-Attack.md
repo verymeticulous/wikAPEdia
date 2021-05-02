@@ -1,9 +1,11 @@
 Anatomy Of A Short Attack
 =========================
 
-**Author: [Gerald Klein](https://seekingalpha.com/author/gerald-klein?source=content_type%3Areact%7Csection%3Aauthor%7Cbutton%3Aavatar%7Cfirst_level_url%3Ablog)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [Gerald Klein](https://seekingalpha.com/author/gerald-klein?source=content_type%3Areact%7Csection%3Aauthor%7Cbutton%3Aavatar%7Cfirst_level_url%3Ablog)| [Seeking Alpha](https://seekingalpha.com/instablog/11442671-gerald-klein/3096735-anatomy-of-a-short-attack)| 
 
-**Source: [Seeking Alpha](https://seekingalpha.com/instablog/11442671-gerald-klein/3096735-anatomy-of-a-short-attack)**
+---
 
 Please Note: Blog posts are not selected, edited or screened by Seeking Alpha editors.
 

@@ -1,9 +1,11 @@
 FTD of 62 ETFs that contained GME
 =================================
 
-**Author: [u/aNinjaAtNight](https://www.reddit.com/user/aNinjaAtNight/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/aNinjaAtNight](https://www.reddit.com/user/aNinjaAtNight/)| [Reddit](https://www.reddit.com/r/GME/comments/m63jfb/ftd_of_62_etfs_that_contained_gme/) | 
 
-[DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
+---
 
 Hello Apes,
 

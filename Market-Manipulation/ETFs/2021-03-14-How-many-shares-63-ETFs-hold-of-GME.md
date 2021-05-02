@@ -1,7 +1,11 @@
 GME DD: How Many Shares 63 ETFs Hold of GME
 ===========================================
 
-**Author: [u/aNinjaAtNight](https://www.reddit.com/user/aNinjaAtNight/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/aNinjaAtNight](https://www.reddit.com/user/aNinjaAtNight/) | [Reddit](https://www.reddit.com/r/GME/comments/m4vnjk/gme_dd_how_many_shares_63_etfs_hold_of_gme/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 

@@ -1,9 +1,11 @@
 Hiding FTDs in Dark Pool Calls
 ==============================
 
-**Author: [u/therileyfactor7](https://www.reddit.com/user/therileyfactor7/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/therileyfactor7](https://www.reddit.com/user/therileyfactor7/) | [Reddit](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
