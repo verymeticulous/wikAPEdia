@@ -1,7 +1,11 @@
 Elliot Waves Say We're Headed UP 🚀
 ===================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/GME/comments/mdwv5p/elliot_waves_say_were_headed_up/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
