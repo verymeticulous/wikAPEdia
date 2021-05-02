@@ -1,9 +1,11 @@
 Trillions to be added to SLR Calculation on March.31st: Bullish or Bearish?
 ===========================================================================
 
-**Author: deleted**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  u/deleted | [Reddit](https://www.reddit.com/r/stocks/comments/lvax5x/trillions_to_be_added_to_slr_calculation_on/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/stocks/comments/lvax5x/trillions_to_be_added_to_slr_calculation_on/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [Industry Discussion](https://www.reddit.com/r/stocks/search?q=flair_name%3A%22Industry%20Discussion%22&restrict_sr=1)
 
