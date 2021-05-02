@@ -1,9 +1,11 @@
 6 out of the 7 top listed US banks have made major announcements in the past few days: A compilation of data.
 =============================================================================================================
 
-**Author: [u/footsmashingwierdo](https://www.reddit.com/user/footsmashingwierdo/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/footsmashingwierdo](https://www.reddit.com/user/footsmashingwierdo/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mu8a5m/6_out_of_the_7_top_listed_us_banks_have_made/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mu8a5m/6_out_of_the_7_top_listed_us_banks_have_made/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [News 📰 | Media 📱](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22News%20%F0%9F%93%B0%20%7C%20Media%20%F0%9F%93%B1%22&restrict_sr=1)
 
