@@ -1,7 +1,11 @@
 GME - EndGame Part 2: Cohen, Market Cap, Potential Investors
 ============================================================
 
-**Author: [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l0czgs/gme_endgame_part_2_cohen_market_cap_potential/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
