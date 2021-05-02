@@ -1,7 +1,11 @@
 Trading Exit Strategies -- Best Take Profit Techniques
 =====================================================
 
-**[Source](https://www.jumpstarttrading.com/trading-exit-strategies/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [Adam Abbas](https://www.linkedin.com/in/adamrabbas) | [Jumpstart Trading](https://www.jumpstarttrading.com/trading-exit-strategies/) | 
+
+---
 
 ![Trading Exit Strategies](https://www.jumpstarttrading.com/wp-content/uploads/2016/12/tradingexitstrategies-1030x539.png)
 
