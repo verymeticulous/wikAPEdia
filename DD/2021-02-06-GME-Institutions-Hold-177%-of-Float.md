@@ -1,7 +1,11 @@
 GME Institutions Hold 177% of Float Why the Squeeze is not Squoze
 =================================================================
 
-**Author: [u/onerivenpony](https://www.reddit.com/user/onerivenpony/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/onerivenpony](https://www.reddit.com/user/onerivenpony/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/le235t/gme_institutions_hold_177_of_float_why_the/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
