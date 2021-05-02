@@ -1,9 +1,11 @@
 The DTCC Is The Dad Now - Reviewing 13F-HR Forms for Shitadel, Melvin and Susquehanna
 =====================================================================================
 
-**Author: [u/djk934](https://www.reddit.com/user/djk934/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/djk934](https://www.reddit.com/user/djk934/) | [Reddit](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
