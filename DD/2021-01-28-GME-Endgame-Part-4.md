@@ -1,7 +1,11 @@
 GME - EndGame part 4: The Saga Continues
 ========================================
 
-**Author: [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/FatAspirations](https://www.reddit.com/user/FatAspirations/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l6y7om/gme_endgame_part_4_the_saga_continues/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
