@@ -1,9 +1,11 @@
 Thesis: SI is Upwards of 2000%, GME is a $100 Trillion Bubble Waiting to Pop, and DTCC is Attempting to Crash the Entire Market to Socialize Losses. Change My Mind.
 ====================================================================================================================================================================
 
-**Author: [u/Unowned-Instruction](https://www.reddit.com/user/Unowned-Instruction/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Unowned-Instruction](https://www.reddit.com/user/Unowned-Instruction/) | [Reddit](https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/) | 
 
-**[Source](https://www.reddithelp.com/en/categories/reddit-101/reddit-basics/what-are-awards)**
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
