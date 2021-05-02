@@ -1,7 +1,11 @@
 𝗚𝗮𝗺𝗲𝗦𝘁𝗼𝗽'𝘀 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗧𝗲𝗮𝗺 & 𝗕𝗼𝗮𝗿𝗱 𝗼𝗳 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘀 [𝗨𝗣𝗗𝗔𝗧𝗘𝗦]
 =====================================================================================================
 
-**Author: [u/RaslerG](https://www.reddit.com/user/RaslerG/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/RaslerG](https://www.reddit.com/user/RaslerG/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mu6y3m/%F0%9D%97%9A%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BD_%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2_%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BA_%F0%9D%97%95%F0%9D%97%BC%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B1_%F0%9D%97%BC%F0%9D%97%B3_%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%80_%F0%9D%97%A8%F0%9D%97%A3%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A6/) | 
+
+---
 
 [Reviewed Deep Dive ✔️](https://www.reddit.com/r/DDintoGME/search?q=flair_name%3A%22Reviewed%20Deep%20Dive%20%E2%9C%94%EF%B8%8F%22&restrict_sr=1)
 
