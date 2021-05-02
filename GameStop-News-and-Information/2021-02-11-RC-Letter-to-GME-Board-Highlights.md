@@ -1,7 +1,11 @@
 GME Ryan Cohen DD #stillholding #diamondhands #ilikethestock Original post at WSB but got removed without clear reason
 ======================================================================================================================
 
-**Author: [u/redcrumb1](https://www.reddit.com/user/redcrumb1/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/redcrumb1](https://www.reddit.com/user/redcrumb1/)| [Reddit](https://www.reddit.com/r/GME/comments/li35oi/gme_ryan_cohen_dd_stillholding_diamondhands/) | 
+
+---
 
 -   on November 16, 2020 The letter to GME Board of Directors, the title reads: Maximizing Stockholder Value by Becoming the ULTIMATE Destination for Gamers (Cohen didnt use the word ULTIMATE lightly, proof below)
 
