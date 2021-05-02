@@ -1,9 +1,11 @@
 Current Gamestop CEO's Vesting Schedule. 2 Weeks And Then Cohen's Turn?
 =======================================================================
 
-**Author: [u/commentsonyankees](https://www.reddit.com/user/commentsonyankees/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/commentsonyankees](https://www.reddit.com/user/commentsonyankees/) | [Reddit](https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
