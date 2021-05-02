@@ -1,7 +1,11 @@
 Why I think existing data supports SI % against float is easily over 300%
 =========================================================================
 
-**Author: [u/mrpoopybuttface](https://www.reddit.com/user/mrpoopybuttface/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/mrpoopybuttface](https://www.reddit.com/user/mrpoopybuttface/) | [Reddit](https://www.reddit.com/r/DeepFuckingValue/comments/lgpdj9/why_i_think_existing_data_supports_si_against/) | 
+
+---
 
 Disclaimer: I'm not a financial advisor. Do your own due diligence. I can't read.
 
