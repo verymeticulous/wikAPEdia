@@ -1,9 +1,11 @@
 Why the short borrowing rate is so low and why we absolutely want it as low as possible
 =======================================================================================
 
-**Author: [u/Scalpel_Jockey9965](https://www.reddit.com/user/Scalpel_Jockey9965/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Scalpel_Jockey9965](https://www.reddit.com/user/Scalpel_Jockey9965/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mkl9l1/why_the_short_borrowing_rate_is_so_low_and_why_we/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mkl9l1/why_the_short_borrowing_rate_is_so_low_and_why_we/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [Serious DD 👨‍🔬🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Serious%20DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%F0%9F%94%AC%22&restrict_sr=1)
 
