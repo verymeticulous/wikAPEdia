@@ -1,7 +1,11 @@
 Elliot Waves, Big Triangles, A Technical Look Into GME's Movement 🚀
 ====================================================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mp1ywg/elliot_waves_big_triangles_a_technical_look_into/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
