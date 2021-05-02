@@ -1,6 +1,10 @@
 # The MOASS Preparation Guide
 
-**Author: [u/socrates6210](https://www.reddit.com/user/socrates6210/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/socrates6210](https://www.reddit.com/user/socrates6210/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mm5qle/the_moass_preparation_guide/) | 
+
+---
 
 Please read though this and possibly sticky this because I think it is very important that we all have an understanding on the game plan 🚀
 
