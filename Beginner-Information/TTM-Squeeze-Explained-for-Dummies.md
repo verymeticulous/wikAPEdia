@@ -1,7 +1,9 @@
 GME is Mooning, the TTM Squeeze Explained for Dummies 🚀 (REPOST)
 =================================================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/GME/comments/m0vlw2/gme_is_mooning_the_ttm_squeeze_explained_for/) | 
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
