@@ -1,9 +1,11 @@
 ETF holdings of GME compiled current as of 22 Mar
 =================================================
 
-**Author: [u/the_nebraskan](https://www.reddit.com/user/the_nebraskan/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/the_nebraskan](https://www.reddit.com/user/the_nebraskan/)| [Reddit](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
