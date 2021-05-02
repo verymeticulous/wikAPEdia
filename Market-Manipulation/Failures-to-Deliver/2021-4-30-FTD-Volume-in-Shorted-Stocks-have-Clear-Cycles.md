@@ -1,7 +1,11 @@
 FTD VOLUME IN SHORTED STOCKS HAVE CLEAR CYCLES - HODL 🚀🚀🚀
 ============================================================
 
-**Author: [u/floW--](https://www.reddit.com/user/floW--/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/floW--](https://www.reddit.com/user/floW--/)| [Reddit](https://www.reddit.com/r/GME/comments/n1m2bx/ftd_volume_in_shorted_stocks_have_clear_cycles/) | 
+
+---
 
 [🐵 Discussion 💬](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%90%B5%20Discussion%20%F0%9F%92%AC%22&restrict_sr=1)
 
