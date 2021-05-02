@@ -1,6 +1,10 @@
 # GME Exit Strategy: Here is what I (NOT WE) I am going to do using MACD and STOCH RSI indicators and make sure I don't sell too early, explained in a beginner friendly way.
 
-**Author: u/NHNE**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/NHNE](https://www.reddit.com/user/NHNE/) | [Reddit](https://www.reddit.com/r/GME/comments/m0r4kg/gme_exit_strategy_here_is_what_i_not_we_i_am/) | 
+
+---
 
 Preface: I am writing this to help myself diamond hand during the squeeze and not to fuck myself over by selling too early, and not to fuck over the short squeeze rocket by removing some of it's fuel too early. This is not financial advice for anyone, I'm just a dumb crayon eating ape.
 
