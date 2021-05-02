@@ -1,7 +1,11 @@
 (GME DD) One DD to rule them. One DD to find them. One DD to to bring them all and in the darkness bind them.
 =============================================================================================================
 
-**Author: [u/TitusSupremus](https://www.reddit.com/user/TitusSupremus/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/TitusSupremus](https://www.reddit.com/user/TitusSupremus/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/kz7ygv/gme_dd_one_dd_to_rule_them_one_dd_to_find_them/) | 
+
+---
 
 OC[DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
