@@ -1,9 +1,11 @@
 I think I figured out what DFV knows... and it's pretty simple.
 ===============================================================
 
-**Author: [u/DSmith2430](https://www.reddit.com/user/DSmith2430/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/DSmith2430](https://www.reddit.com/user/DSmith2430/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mtftsq/i_think_i_figured_out_what_dfv_knows_and_its/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mtftsq/i_think_i_figured_out_what_dfv_knows_and_its/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [Opinion 👽](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Opinion%20%F0%9F%91%BD%22&restrict_sr=1)
 
