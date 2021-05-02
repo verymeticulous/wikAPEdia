@@ -1,7 +1,11 @@
 For Those Who Don't Understand the Inevitable Short Squeeze with GME
 ====================================================================
 
-**Author: [u/hooman_or_whatever](https://www.reddit.com/user/hooman_or_whatever/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|   [u/hooman_or_whatever](https://www.reddit.com/user/hooman_or_whatever/) | [Reddit](https://www.reddit.com/r/stocks/comments/k688qv/for_those_who_dont_understand_the_inevitable/) | 
+
+---
 
 First, what is a short?
 
