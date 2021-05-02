@@ -1,6 +1,10 @@
-**[Source](https://www.netpicks.com/trading-exits-vital/)**
-
 # Trade Exit Strategies To Book Profits
+
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  COACHSHANE | [netpicks.com](https://www.netpicks.com/trading-exits-vital/) | 
+
+---
 
 Every trader needs an exit strategy thought out before they actually enter on their trading setups. For [day trades](https://www.netpicks.com/day-trading-tips/), even an "exit before market close", while basic, still has you with a plan for ending the trade.
 
