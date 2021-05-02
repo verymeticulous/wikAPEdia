@@ -1,7 +1,11 @@
 CRAYON-BRAINED MANIFESTO: BANKS ARE UNLOADING THEIR DEBT ONTO OUR PARENTS' RETIREMENT ACCOUNTS. Call your parents and ask them how much of their retirement savings is allocated to BONDS.
 ==========================================================================================================================================================================================
 
-**Author: [u/G_KG](https://www.reddit.com/user/G_KG/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/G_KG](https://www.reddit.com/user/G_KG/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
