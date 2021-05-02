@@ -1,5 +1,10 @@
 # From fake shares to millionaires! 🚀 Common misconceptions and questions explained for apes! 🦍 + My theory for the best exit strategy! 💎🚀🌙
-**Author: [u/BinBender](https://www.reddit.com/user/BinBender/)**
+
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/BinBender](https://www.reddit.com/user/BinBender/) | [Reddit](https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/) | 
+
+---
 
 Okay fellow apes, I see a lot of confusion and worries about all sorts of stuff, especially all this mess with real, fake and synthetic shares, what exactly short sellers need to do to cover, and also when it comes to selling your shares, a topic we don't discuss too much, because apes only know how to BUY and HODL! 💎🤲🏼
 
