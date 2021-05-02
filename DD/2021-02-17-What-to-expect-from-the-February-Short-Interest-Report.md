@@ -1,9 +1,11 @@
 What can we expect from the Feb 17 short interest report?
 =========================================================
 
-**Author: [u/ThrowMoneyAway38](https://www.reddit.com/user/ThrowMoneyAway38/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ThrowMoneyAway38](https://www.reddit.com/user/ThrowMoneyAway38/)| [Reddit](https://www.reddit.com/r/GME/comments/lm7840/what_can_we_expect_from_the_feb_17_short_interest/) | 
 
-[DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
+---
 
 I've been looking through the GME volume numbers put out by individual exchanges to try and get a sense of the actual short volume, and oh wow is it a doozy. Buckle in, apes. This information is accurate to the best of my knowledge and ability, but does not constitute financial advice. I am but monke, so please correct me if I get anything wrong.
 
