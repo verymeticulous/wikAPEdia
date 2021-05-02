@@ -1,9 +1,11 @@
 How to read the Bloomberg Terminal - by smooth brained Ape to smooth brained Ape!
 =================================================================================
 
-**Author: [u/ShortaSqueezzzGoBRRR](https://www.reddit.com/user/ShortaSqueezzzGoBRRR/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/ShortaSqueezzzGoBRRR](https://www.reddit.com/user/ShortaSqueezzzGoBRRR/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/ml9faf/how_to_read_the_bloomberg_terminal_by_smooth/) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/ml9faf/how_to_read_the_bloomberg_terminal_by_smooth/)**
+---
 
 [Serious DD 👨‍🔬🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Serious%20DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%F0%9F%94%AC%22&restrict_sr=1)
 
