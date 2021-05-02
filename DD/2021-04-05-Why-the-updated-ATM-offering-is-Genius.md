@@ -1,6 +1,10 @@
 # Why the updated ATM offering is an absolute MASTERSTROKE and I'm more confident than ever that RC and Game Stop WANT the squeeze to happen!
 
-**Author: [u/sped2500](https://www.reddit.com/user/sped2500/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/sped2500](https://www.reddit.com/user/sped2500/) | [Reddit](https://www.reddit.com/r/GME/comments/mkkb3w/why_the_updated_atm_offering_is_an_absolute/) | 
+
+---
 
 What a weekend, what a wake up! I like everyone else woke up to some fancy price action and dug in to find out that Game Stop (remember, without the booted CFO) filed with the SEC to update their previous filing regarding their ATM offering. Important that it was UPDATED. Game Stop could have done a lot of things here, and they did something that IMHO will HELP the squeeze happen. I argued in my previous DD https://www.reddit.com/r/GME/comments/m4wq5t/why_rc_and_gamestop_want_us_to_win_this_fight_and/ that they wanted the squeeze and I'm more confident in ever that this is still the case.
 
