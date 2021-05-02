@@ -1,9 +1,11 @@
 OFFICIAL AMA - Alexis Goldstein - Friday, April 2 @ 11 a.m. EST
 ===============================================================
 
-**Author: [u/dontfightthevol](https://www.reddit.com/user/dontfightthevol/)**
+| Author       | Source       | Twitter  |
+| :-------------: |:-------------:|:-----:|
+| [u/dontfightthevol](https://www.reddit.com/user/dontfightthevol/)  | [Reddit](https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/) | [Alexis Goldstein](https://twitter.com/alexisgoldstein?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
 
-**[Source](https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/)**
+---
 
 OC[Mod Announcement 🦍](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Mod%20Announcement%20%F0%9F%A6%8D%22&restrict_sr=1)
 
