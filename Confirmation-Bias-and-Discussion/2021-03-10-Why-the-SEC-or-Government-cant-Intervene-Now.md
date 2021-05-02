@@ -1,7 +1,11 @@
 Death Throes DD: the SEC/Government Can't Intervene Now 💎🙌🚀
 ==============================================================
 
-**Author: [u/Broviet](https://www.reddit.com/user/Broviet/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Broviet](https://www.reddit.com/user/Broviet/) | [Reddit](https://www.reddit.com/r/GME/comments/m2asru/death_throes_dd_the_secgovernment_cant_intervene/) | 
+
+---
 
 [Fluff](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Fluff%22&restrict_sr=1)
 
