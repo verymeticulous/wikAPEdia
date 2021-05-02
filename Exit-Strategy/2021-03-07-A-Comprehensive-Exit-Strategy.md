@@ -1,6 +1,10 @@
 # Exit Strategy DD: A comprehensive guide to maximizing your gains during the GME short squeeze. Advice from a day and swing trader.
 
-## Author: u/Warden_Elite
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/WardenElite](https://www.reddit.com/user/WardenElite/) | [Reddit](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/) | 
+
+---
 
 ![image](https://user-images.githubusercontent.com/82035192/113719880-14af8f80-96bc-11eb-84e3-20c3a939f327.png)
 
