@@ -1,8 +1,10 @@
 # 🚨IMPORTANT🚨 ALL apes need to read this to prepare for squeeze, or risk potentially losing profit!
 
-**Author: u/NHNE**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/NHNE](https://www.reddit.com/user/NHNE/) | [Reddit](https://www.reddit.com/r/GME/comments/m8nk84/important_all_apes_need_to_read_this_to_prepare/) | 
 
-
+---
 
 Preface: Please upvote this to combat shill bots. This NEEDS to be made known to all diamond hand apes, but it's not financial advice.
 
