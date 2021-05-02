@@ -1,11 +1,11 @@
 Not All Sells Are Enemies (Victory Lap Edition)
 ===============================================
 
-**Author: u/WuzGoodieN1gz**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| **Wuz** posted by [u/beowulf77](https://www.reddit.com/user/beowulf77/)   | [Reddit](https://www.reddit.com/r/GME/comments/m8swj1/not_all_sells_are_enemies_victory_lap_edition/) | 
 
-**Posted by: [u/beowulf77](https://www.reddit.com/user/beowulf77/)**
-
-**[Source](https://www.reddit.com/r/GME/comments/m8swj1/not_all_sells_are_enemies_victory_lap_edition/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
