@@ -1,6 +1,10 @@
 # ~4/20~ 4/15 “Share Recall” Explained- Why it’s important that shares must be recorded-Is this the Catalyst?🚀🚀🚀 If you’re still on Margin, CONTACT YOUR BROKERS
 
-**Author: [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mmt5rq/420_share_recall_explained_why_its_important_that/) | 
+
+---
 
 **UPDATE: I CAN'T EDIT THE TITLE BUT HOLY SHIT GUYS ITS LOOKING LIKE [4/15](http://imgur.com/a/QJqwTfw) RECORD DATE NOT 4/20 I THINK WE FIGURED IT OUT GOOD JOB APES**
 
