@@ -1,7 +1,10 @@
 # Important: GameStop is UPDATING an EXISTING prospectus from 2008. They did not announce a new sale of 3.5 million shares. They raised the maximum price of an existing agreement!
 
-**Author: u/tsevni**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/tsevni](https://www.reddit.com/user/tsevni/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mkihsr/important_gamestop_is_updating_an_existing/) | 
 
+---
 Source of the latest GameStop announcement: https://news.gamestop.com/static-files/33c3ed1d-f47e-403f-81f7-9b75d3cf1adc
 
 Apes, it's important that we read from the source of information before arriving at conclusions and posting to reddit. Remain skeptical, always.
