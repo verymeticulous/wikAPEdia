@@ -1,7 +1,11 @@
 I think it's quite evident they shorted GME through ETFs. Request for DD
 ========================================================================
 
-**Author: [u/hkzor](https://www.reddit.com/user/hkzor/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/hkzor](https://www.reddit.com/user/hkzor/)| [Reddit](https://www.reddit.com/r/GME/comments/m5v1xy/i_think_its_quite_evident_they_shorted_gme/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
