@@ -1,9 +1,11 @@
 DTCC Recovery and Wind Down ("R&W") Procedure DD
 ================================================
 
-**Author: [u/Leaglese](https://www.reddit.com/user/Leaglese/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Leaglese](https://www.reddit.com/user/Leaglese/) | [Reddit](https://www.reddit.com/r/GME/comments/mdc40j/dtcc_recovery_and_wind_down_rw_procedure_dd/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mdc40j/dtcc_recovery_and_wind_down_rw_procedure_dd/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
