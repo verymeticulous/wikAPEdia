@@ -1,7 +1,11 @@
 Dance of Darkness: The SEC and Dark Pools
 =========================================
 
-**Author:[u/umu68](https://www.reddit.com/user/umu68/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/umu68](https://www.reddit.com/user/umu68/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/movevb/dance_of_darkness_the_sec_and_dark_pools/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
