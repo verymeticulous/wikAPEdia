@@ -1,7 +1,11 @@
 $XRT is just the tip of the $GME iceburg (DD)
 =============================================
 
-**Author: [u/boneywankenobi](https://www.reddit.com/user/boneywankenobi/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/boneywankenobi](https://www.reddit.com/user/boneywankenobi/) | [Reddit](https://www.reddit.com/r/GME/comments/lkuarh/xrt_is_just_the_tip_of_the_gme_iceburg_dd/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
