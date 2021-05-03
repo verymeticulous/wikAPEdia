@@ -1,9 +1,11 @@
 BlackRock and share recall for voting: We aim to vote at 100% of meetings...
 ============================================================================
 
-**Author: [u/valthonis_surion](https://www.reddit.com/user/valthonis_surion/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/valthonis_surion](https://www.reddit.com/user/valthonis_surion/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/)**
+---
 
 [Possible DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Possible%20DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
