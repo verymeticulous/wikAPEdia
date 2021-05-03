@@ -1,9 +1,11 @@
 Evidence pointing to shorts did not cover pretended they did (via options) to break the squeeze
 ===============================================================================================
 
-**Author: [u/rainforest11](https://www.reddit.com/user/rainforest11/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/rainforest11](https://www.reddit.com/user/rainforest11/)| [Reddit](https://www.reddit.com/r/wallstreetbets/comments/ld5rd9/evidence_pointing_to_shorts_did_not_cover/) | 
 
-[DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
+---
 
 Long post ahead, but I encourage you to read the whole thing. (This is a re-post, if you previously saw this I would appreciate an upvote for visibility. The previous post got a lot of traction but was removed a mod. I spoke to a mod on the team after and he kindly agreed to approve a re-post.)
 
