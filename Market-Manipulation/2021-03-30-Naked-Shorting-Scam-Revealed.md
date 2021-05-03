@@ -1,9 +1,11 @@
 The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
 ===========================================================================================================================================
 
-**Author: [u/broccaaa](https://www.reddit.com/user/broccaaa/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
