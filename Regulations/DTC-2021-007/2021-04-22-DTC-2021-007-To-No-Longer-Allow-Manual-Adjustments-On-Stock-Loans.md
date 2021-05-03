@@ -1,9 +1,11 @@
 DTC-2021-007, signed April 20, 2021 is forcing ALL Participants no longer make "manual adjustments" but go through a centralized DTC-monitored portal.
 ======================================================================================================================================================
 
-**Author: [u/creakfast](https://www.reddit.com/user/creakfast/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/creakfast](https://www.reddit.com/user/creakfast/)| [Reddit](https://www.reddit.com/r/GME/comments/mvh4hb/dtc2021007_signed_april_20_2021_is_forcing_all/) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mvh4yy/dtc2021007_signed_april_20_2021_is_forcing_all/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [🔬DD📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%94%AC%20DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
