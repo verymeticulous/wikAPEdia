@@ -1,7 +1,11 @@
 Financial Tips for the Suddenly Wealthy
 =======================================
 
-**Author: [u/Minako_mama](https://www.reddit.com/user/Minako_mama/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Minako_mama](https://www.reddit.com/user/Minako_mama/)| [Reddit](https://www.reddit.com/r/GME/comments/m6lyid/financial_tips_for_the_suddenly_wealthy/) | 
+
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
