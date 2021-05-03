@@ -1,7 +1,11 @@
 Serious Researchers Needed Now: I think I know What Happened
 ============================================================
 
-**Author: [u/boneywankenobi](https://www.reddit.com/user/boneywankenobi/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/ahh_soy](https://www.reddit.com/user/ahh_soy/) | [Reddit](https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
