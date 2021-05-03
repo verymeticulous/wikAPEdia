@@ -1,7 +1,11 @@
 S3 Partners & GME Manipulation?
 ===============================
 
-**Author: [u/StonkyFarts](https://www.reddit.com/user/StonkyFarts/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/StonkyFarts](https://www.reddit.com/user/StonkyFarts/) | [Reddit](https://www.reddit.com/r/MoonBets/comments/ll65ei/s3_partners_gme_manipulation/) | 
+
+---
 
 [🔎DD🔍](https://www.reddit.com/r/MoonBets/search?q=flair_name%3A%22%F0%9F%94%8EDD%F0%9F%94%8D%22&restrict_sr=1)
 
