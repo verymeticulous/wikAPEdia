@@ -1,7 +1,11 @@
 Citadel Has No Clothes
 ======================
 
-**Author: [u/atobitt](https://www.reddit.com/user/atobitt/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/atobitt](https://www.reddit.com/user/atobitt/) | [Reddit](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
