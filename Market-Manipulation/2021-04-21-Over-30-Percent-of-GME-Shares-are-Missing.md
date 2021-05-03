@@ -1,7 +1,11 @@
 Over 30% of GME bananas are missing from Bloomberg Terminal. Over 69% of GME is trading off exchanges or in an unreported Dark Pool? It's National Banana Day - Do you know where your GME bananas are?
 =======================================================================================================================================================================================================
 
-**Author: [u/nayboyer2](https://www.reddit.com/user/nayboyer2/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/nayboyer2](https://www.reddit.com/user/nayboyer2/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mvfs0c/over_30_of_gme_bananas_are_missing_from_bloomberg/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
