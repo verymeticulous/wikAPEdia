@@ -1,11 +1,11 @@
-[
-
 A BRIEF OVERVIEW OF RECENT FILINGS FROM THE DTC, NSCC, AND OCC FOR DIPSHITS WHO KNOW FUCKALL ABOUT SECURITIES LEGISLATION AND GET CONFUSED BY LETTERS AND NUMBERS
 =================================================================================================================================================================
 
-**Author: [u/Antioch_Orontes](https://www.reddit.com/user/Antioch_Orontes/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Antioch_Orontes](https://www.reddit.com/user/Antioch_Orontes/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/gv61tmd/?context=3) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/gv61tmd/?context=3)**
+---
 
 OC[DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
