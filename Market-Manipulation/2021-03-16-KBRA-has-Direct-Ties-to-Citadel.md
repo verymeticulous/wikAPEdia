@@ -1,6 +1,8 @@
 Some fun info about Citadel's bonds and their in-pocket ratings agency 💎🙌🚀
 =============================================================================
 
+
+
 **Author: [u/Broviet](https://www.reddit.com/user/Broviet/)**
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
