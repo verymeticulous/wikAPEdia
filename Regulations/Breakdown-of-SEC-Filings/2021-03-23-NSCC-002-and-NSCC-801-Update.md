@@ -1,9 +1,11 @@
 NSSC-002 and NSSC-801 Update
 ============================
 
-**Author: [u/ReBjorn65](https://www.reddit.com/user/ReBjorn65/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ReBjorn65](https://www.reddit.com/user/ReBjorn65/) | [Reddit](https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/)**
+---
 
 [News](https://www.reddit.com/r/GME/search?q=flair_name%3A%22News%22&restrict_sr=1)
 
