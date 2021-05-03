@@ -1,7 +1,11 @@
 So You Think You Wanna Buy A Lambo, Eh?
 =======================================
 
-**Author: [u/2008UniGrad](https://www.reddit.com/user/2008UniGrad/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/2008UniGrad](https://www.reddit.com/user/2008UniGrad/) | [Reddit](https://www.reddit.com/r/GME/comments/m960vj/so_you_think_you_wanna_buy_a_lambo_eh/) | 
+
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
