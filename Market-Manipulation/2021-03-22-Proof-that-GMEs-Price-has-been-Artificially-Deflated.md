@@ -1,7 +1,11 @@
 Definitive proof that GME's price has been artificially deflated, that apes are💎✋ and that total buying pressure has actually INCREASED by 24%! This rocket is ready to pop! 💎✋🚀🚀🚀
 =======================================================================================================================================================================================
 
-**Author: [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/) | [Reddit](https://www.reddit.com/r/GME/comments/mb18u2/definitive_proof_that_gmes_price_has_been/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
