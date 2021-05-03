@@ -1,9 +1,11 @@
 Shitadel & Other Hedgies Are Trading over 525 million shares in the OTC (Darkpool)
 ==================================================================================
 
-**Author: [u/tearsaresweat](https://www.reddit.com/user/tearsaresweat/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/tearsaresweat](https://www.reddit.com/user/tearsaresweat/) | [Reddit](https://www.reddit.com/r/GME/comments/mcfq4e/shitadel_other_hedgies_are_trading_over_525/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mcfq4e/shitadel_other_hedgies_are_trading_over_525/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
