@@ -1,7 +1,11 @@
 Evidence of Massive Naked Short Selling Fraud in GME and AMC
 ============================================================
 
-**Author: [u/MagicBobert](https://www.reddit.com/user/MagicBobert/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/MagicBobert](https://www.reddit.com/user/MagicBobert/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l9z88h/evidence_of_massive_naked_short_selling_fraud_in/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
