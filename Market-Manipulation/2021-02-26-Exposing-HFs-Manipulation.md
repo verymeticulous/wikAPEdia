@@ -1,7 +1,11 @@
 Really long DD and Analysis! What happened yesterday explained in detail and exposing the HFs obvious manipulation.
 ===================================================================================================================
 
-**Author: [u/HeyItsPixeL](https://www.reddit.com/user/HeyItsPixeL/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/HeyItsPixeL](https://www.reddit.com/user/HeyItsPixeL/) | [Reddit](https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/) | 
+
+---
 
 [DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
