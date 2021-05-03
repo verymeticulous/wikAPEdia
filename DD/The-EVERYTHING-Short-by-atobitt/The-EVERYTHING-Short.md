@@ -1,7 +1,11 @@
 The EVERYTHING Short
 ====================
 
-**Author [u/atobitt](https://www.reddit.com/user/atobitt/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/atobitt](https://www.reddit.com/user/atobitt/)| [Reddit](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/) | 
+
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
