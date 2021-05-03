@@ -1,9 +1,11 @@
 Good Morning APES! Todays Edition of Hedge Fund Bad News: Credit Suisse (April 7, 2021)
 =======================================================================================
 
-**Author: [u/Ok_Safety_7710](https://www.reddit.com/user/Ok_Safety_7710/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Ok_Safety_7710](https://www.reddit.com/user/Ok_Safety_7710/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mm47la/good_morning_apes_todays_edition_of_hedge_fund/gtp6rmu/?context=3) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mm47la/good_morning_apes_todays_edition_of_hedge_fund/gtp6rmu/?context=3)**
+---
 
 [News 📰](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22News%20%F0%9F%93%B0%22&restrict_sr=1)
 
