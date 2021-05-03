@@ -1,9 +1,11 @@
 New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members (Citadel is an options clearing member) SR-OCC-2021-004
 ==================================================================================================================================================================
 
-**Author: [u/Scalpel_Jockey9965](https://www.reddit.com/user/Scalpel_Jockey9965/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Scalpel_Jockey9965](https://www.reddit.com/user/Scalpel_Jockey9965/) | [Reddit](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
