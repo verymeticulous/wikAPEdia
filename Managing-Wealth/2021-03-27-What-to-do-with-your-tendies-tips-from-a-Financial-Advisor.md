@@ -1,7 +1,11 @@
 What to do with your tendies: From a Financial Advisor.
 =======================================================
 
-**Author; [u/docpapas](https://www.reddit.com/user/docpapas/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/docpapas](https://www.reddit.com/user/docpapas/) | [Reddit](https://www.reddit.com/r/GME/comments/mefwc7/what_to_do_with_your_tendies_from_a_financial/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
