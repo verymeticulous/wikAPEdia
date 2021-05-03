@@ -1,7 +1,11 @@
 A House of Cards - Part 1
 =========================
 
-**Author: [u/atobitt](https://www.reddit.com/user/atobitt/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/atobitt](https://www.reddit.com/user/atobitt/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/) | 
+
+---
 
 [God Tier DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22God%20Tier%20DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
