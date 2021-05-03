@@ -1,7 +1,11 @@
 The naked shorting scam in numbers: AI detection of 140M hidden FTDs, up to 400M naked shorts in married puts and massive dark pool activity by Shitadel and the shorts
 =======================================================================================================================================================================
 
-**Author: [u/broccaaa](https://www.reddit.com/user/broccaaa/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
