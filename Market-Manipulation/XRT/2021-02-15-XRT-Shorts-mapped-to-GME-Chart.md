@@ -1,7 +1,11 @@
 XRT Shorts mapped to GME's chart
 ===============================
 
-**Author: [u/draconic86](https://www.reddit.com/user/draconic86/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/draconic86](https://www.reddit.com/user/draconic86/)| [Reddit](https://www.reddit.com/r/GME/comments/lkgrhe/xrt_shorts_mapped_to_gmes_chart/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
