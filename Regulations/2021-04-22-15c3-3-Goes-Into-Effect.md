@@ -1,8 +1,10 @@
 # 15c3-3
 
-**Author: [u/rensole](https://www.reddit.com/user/rensole/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/rensole](https://www.reddit.com/user/rensole/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mw0w96/synopsis_for_04222021_what_we_need_to_know_before/) | 
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mw0w96/synopsis_for_04222021_what_we_need_to_know_before/)**
+---
 
 As of April 22, 2021, broker-dealers will be required to bring themselves into compliance margin requirements. Rule 15C3-3 established the requirement to keep enough cash and securities in a segregated account that will cover a portion of the costs of a major market move. This one goes into effect as of today
 
