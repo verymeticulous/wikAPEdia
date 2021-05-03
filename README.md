@@ -1,42 +1,19 @@
 # A central place for apes to learn about stonks. This is not financial advice.
 
-## Doing Your Part, Tools & Resources Section
-**Author: u/thr0wthis4ccount4way/**
+# Resources: Tools
 
-### Do your part!
-- [Shorts may be borrowing your shares to short-sell them and drive the price down. Make sure you change settings and call your broker to OPT-OUT](https://www.reddit.com/r/wallstreetbets/comments/l2n5wv/most_of_you_are_helping_the_gme_shorts_and_you/)
+**Author: [u/Truffluscious](https://www.reddit.com/user/Truffluscious/)**
 
-- [Stop using brokers that halted trading - List of good, neutral (forced), and bad](https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/)
-
-- If you are stuck on one of these brokers, I recommend you call up another broker to check whether you would be allowed to sell during the transfer process. I am in the middle of a transfer and the receiving broker informed me that there will only be 2 days where I cannot sell (called the settlement cycle days) and normally takes a week to sell a common company stock from NYSE
-
-💎 Updated: [e-mail your representatives now!](https://medium.com/@BraveNewFilms.org/heres-how-to-contact-all-535-members-of-united-states-congress-call-email-tweet-20b8a1c54195)
-
-- More related threads: [[1]](https://www.reddit.com/r/Wallstreetbetsnew/comments/lihmzl/please_email_your_reps_re_robinhood_congressional/) [[2]](https://www.reddit.com/r/DeepFuckingValue/comments/lj875t/write_your_representatives_concerning_naked/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [[3]](https://www.reddit.com/r/Wallstreetbetsnew/comments/ljfiyy/letter_to_congress/) [[4]](https://www.reddit.com/r/GME/comments/lj1wqv/a_comprehensive_compilation_of_all_due_diligence/gnfntcm)
-
-- [Sign the StockholdersRights Letter (if you have shares)](https://www.stockholdersrights.com/) - this has now been sent out
-
-- [Write to SEC, legislatures, Media, and more.](https://www.reddit.com/r/DeepFuckingValue/comments/lju9g0/dont_just_scream_into_the_void_of_the_reddit_echo/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-
-Share this post around, especially on ~~r/wallstreetbets~~ [r/superstonk](https://www.reddit.com/r/Superstonk/)
-
-Send me DD as a chat message and comment.
-
-[Read removed threads from WSB with a URL switch.](https://www.reddit.com/r/GME/comments/ljtjeg/we_can_read_removed_threads_from_wsb_with_a/)
-
-### [REPORT SHILLS](https://www.reddit.com/r/GME/comments/liel9g/dont_forget_to_report_shills/)
-- [How to spot shill 101 Part 1](https://www.reddit.com/r/GME/comments/ml904y/after_all_the_recent_drama_i_felt_it_was_fair_to/) - **Author: [u/uberfunstuff](https://www.reddit.com/user/uberfunstuff/)**
-
-### Follow for information
-
-[u/Rensole](https://www.reddit.com/u/Rensole/) for the daily morning news
-
-[u/Corno4825](https://www.reddit.com/u/Corno4825/) for his live updates
-
-[u/Seaguard5](https://www.reddit.com/u/Seaguard5/) for Bloomberg terminal updates
-
-[u/WardenElite](https://twitter.com/warden_elite/) for live charting
-
-[Twitter accounts to follow for news & DD](https://www.reddit.com/r/GME/comments/mdhj3x/top_18_gme_twitter_accounts_to_follow_asap/)
-
-**Note: Moving resources to its own folder**
+| Name | Description |
+| ----- | ----------- |
+| [iborrowdesk](https://iborrowdesk.com/report/GME) | helps you keep track of available shorts |
+| [Stonk-O-Tracker](https://gme.crazyawesomecompany.com/) | pools some helpful information on available shorts, current share price, ITM/OTM options |
+| [US Senate Stock Tracker](https://senatestockwatcher.com/) | A cool tool by [u/rambat1994](https://www.reddit.com/u/rambat1994/) to track stock trades of the US Senate Member |
+| [US House of Representatives Stock Tracker](https://housestockwatcher.com/) | Another neat tool by [u/rambat1994](https://www.reddit.com/u/rambat1994/) for tracking trades, but this time the US House of Representatives |
+| [Off-Exchange Dashboard](https://www.quiverquant.com/offexchange/?utm_medium=email&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;_hsmi=2&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;_hsenc=p2ANqtz-80gg0TzU_7WoESGaRK3XURNXbXaotroWpkjK4kRUdPlNu9VtYwE2Ng1v5T-B8o5NaDD3SLk-m7sLdS7vhTm5UrzYxmKg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_content=2&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_source=hs_email) | a tool by [u/pwdp90](https://www.reddit.com/u/pwdp90/) to track trades and short sales that take place off market |
+| [The Buffet Indicator](https://currentmarketvaluation.com/models/buffett-indicator.php) | The Buffett Indicator is the ratio of total United States stock market valuation to GDP. Currently: Strongly Overvalued 📉 |
+| [wherearetheshares](https://wherearetheshares.com/) | a tool to monitor FTDs |
+| [gme.crazyawesomecompany](https://gme.crazyawesomecompany.com/) | GME multi-tool for tracking and analysis |
+| [NASDAQ Real-time Trades](https://www.nasdaq.com/market-activity/stocks/gme/latest-real-time-trades) | monitor live trades |
+| [S&P 500 heatmap](https://finviz.com/map.ashx) | useful to observe on a red day when HFs are liquidating |
+| [MHX Tracker](https://docs.google.com/spreadsheets/d/10MRjupIWNNAO4fdKkgW9QM_IUpPrduHtKz_JiS8JUUA/edit#gid=1116024769) | stock tracker and analysis spreadsheet |
