@@ -1,7 +1,11 @@
 How to Keep Your Newly Minted Title of Millionaire (2nd Edition)
 ================================================================
 
-**Author: [u/Exact-Introduction-5](https://www.reddit.com/user/Exact-Introduction-5/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Exact-Introduction-5](https://www.reddit.com/user/Exact-Introduction-5/) | [Reddit](https://www.reddit.com/r/GME/comments/manjyo/how_to_keep_your_newly_minted_title_of/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
