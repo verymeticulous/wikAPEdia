@@ -1,6 +1,10 @@
 # Risk, Taxes, and Accounting/Reinvestment: Things to Remember While the Tendieman Cometh 🙌💎🚀❤
 
-**Author: [u/Broviet](https://www.reddit.com/user/Broviet/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Broviet](https://www.reddit.com/user/Broviet/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mm98xp/risk_taxes_and_accountingreinvestment_things_to/) | 
+
+---
 
 Seen a lot of great DD on here thus far, guys. Loving the sub. A lot of wrinkly apes have already gone over the biggest things to remember as far as tax implications, maintaining privacy and security, and a lot of great reinvestment ideas. I just wanted to offer up a few tidbits that I feel are important to remember as well, along with a tax-deferring investment idea I feel many of you may enjoy.
 
