@@ -1,9 +1,11 @@
 Accidentally Released -- and Incredibly Embarrassing -- Documents Show How Goldman et al Engaged in 'Naked Short Selling'
 =======================================================================================================================
 
-**Author: [u/bobfern37](https://www.reddit.com/user/bobfern37/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/bobfern37](https://www.reddit.com/user/bobfern37/)| [Reddit](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/?utm_medium=android_app&utm_source=share) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/?utm_medium=android_app&utm_source=share)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
