@@ -1,7 +1,11 @@
 Breakdown of the SEC Legalese from a fellow lawyer ape who deals with SEC filings for a living (NOT FINANCIAL ADVICE, NOT LEGAL ADVICE)
 =======================================================================================================================================
 
-**Author: [u/luridess](https://www.reddit.com/user/luridess/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/luridess](https://www.reddit.com/user/luridess/) | [Reddit](https://www.reddit.com/r/GME/comments/mc5jbj/breakdown_of_the_sec_legalese_from_a_fellow/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
