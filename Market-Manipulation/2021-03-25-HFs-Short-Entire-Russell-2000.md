@@ -1,9 +1,11 @@
 he lid has been blown the fuck open. Credit to /u/Son0ftheSun333 for the original post.
 =======================================================================================
 
-**Author: [u/Son0ftheSun333](https://www.reddit.com/user/Son0fTheSun333)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Son0ftheSun333](https://www.reddit.com/user/Son0fTheSun333) posted by [u/Dannyboi93](https://www.reddit.com/user/Dannyboi93/) | [Reddit](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/) | 
 
-**Posted by: [u/Dannyboi93](https://www.reddit.com/user/Dannyboi93/)**
+---
 
 **[Source](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/)**
 
