@@ -1,7 +1,13 @@
 The real reason Wall Street is terrified of the GME situation
 =============================================================
 
-**Author: [u/johnnydaggers](https://www.reddit.com/user/johnnydaggers/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/johnnydaggers](https://www.reddit.com/user/johnnydaggers/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/l97ykd/the_real_reason_wall_street_is_terrified_of_the/) | 
+
+---
+
+**Author:**
 
 [Discussion](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
