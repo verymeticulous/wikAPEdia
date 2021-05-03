@@ -1,7 +1,11 @@
 Breakdown of Gamestop's SEC 10-K from Legalese to Ape Speak from an Ape Lawyer - PART 2: What is a "Forward-looking statement"; when forward-looking statements must be disclosed; did Gamestop have to include a potential "short squeeze" in their 10-K; & what this means (NOT FINANCIAL/LEGAL ADVICE)
 =========================================================================================================================================================================================================================================================================================================
 
-**Author; [u/luridess](https://www.reddit.com/user/luridess/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/luridess](https://www.reddit.com/user/luridess/) | [Reddit](https://www.reddit.com/r/GME/comments/mdzuuf/breakdown_of_gamestops_sec_10k_from_legalese_to/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
