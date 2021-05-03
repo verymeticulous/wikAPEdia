@@ -1,9 +1,11 @@
 The naked shorting scam update: selling nude like its 2021
 ==========================================================
 
-**Author: [u/broccaaa](https://www.reddit.com/user/broccaaa/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/)**
+---
 
 [DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
