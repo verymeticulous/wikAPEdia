@@ -1,7 +1,11 @@
 Fintel Changed Their Short Volume Data After My Last Post, and I Have The Receipts To Prove It. (GME) Mods Stop Deleting This
 =============================================================================================================================
 
-**Author: [u/RubbinoffButtChug69](https://www.reddit.com/u/RubbinoffButtChug69/) via [u/moo-va-long](https://www.reddit.com/user/moo-va-long/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/RubbinoffButtChug69](https://www.reddit.com/u/RubbinoffButtChug69/) posted by [u/moo-va-long](https://www.reddit.com/user/moo-va-long/) | [Reddit](https://www.reddit.com/r/GME/comments/lfdvvb/fintel_changed_their_short_volume_data_after_my/) | 
+
+---
 
 Fellow Apes, you may remember me from my post on Friday analyzing [why hedge funds couldn't have repositioned on the 28th, and why they couldn't have covered on the 29th](https://www.reddit.com/r/wallstreetbets/comments/ldjbg1/analysis_on_why_hedge_funds_didnt_reposition_last/?ref=share&ref_source=link). My post gained a lot of interest and I am glad you all appreciated my analysis.🦍
 
