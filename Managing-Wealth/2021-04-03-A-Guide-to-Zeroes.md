@@ -1,7 +1,11 @@
 A Guide to Zeroes and Why Greed is Good
 =======================================
 
-**Author: [u/ScalpelUser](https://www.reddit.com/user/ScalpelUser/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/ScalpelUser](https://www.reddit.com/user/ScalpelUser/) | [Reddit](https://www.reddit.com/r/GME/comments/mjbnxe/a_guide_to_zeroes_and_why_greed_is_good/) | 
+
+---
 
 [Unverified DD](https://www.reddit.com/r/DDintoGME/search?q=flair_name%3A%22Unverified%20DD%22&restrict_sr=1)
 
