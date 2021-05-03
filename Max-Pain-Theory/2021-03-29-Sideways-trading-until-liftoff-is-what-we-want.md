@@ -1,9 +1,11 @@
 Sideways trading until a catalyst/liftoff is what we want and here's why!
 =========================================================================
 
-**Author: [u/Whiskiz](https://www.reddit.com/user/Whiskiz/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Whiskiz](https://www.reddit.com/user/Whiskiz/)| [Reddit](https://www.reddit.com/r/GME/comments/mfyjit/sideways_trading_until_a_catalystliftoff_is_what/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
 
-**[Source](https://www.reddit.com/r/GME/comments/mfyjit/sideways_trading_until_a_catalystliftoff_is_what/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
