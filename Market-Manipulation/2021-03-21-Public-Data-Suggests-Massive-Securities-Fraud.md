@@ -7,8 +7,6 @@ The real reason Wall Street is terrified of the GME situation
 
 ---
 
-**Author:**
-
 [Discussion](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
 I have been following GME since mid-September and over that time I have banked myself a %1300 return in the process. However, the whole time I was a little puzzled with how severe the reactions from Wall Street have been, especially this week. "The company had more than 100% of its stock sold short! That's never happened before!", you say. I know, I know, but that's [not actually not a new thing](https://www.forbes.com/2006/08/25/naked-shorts-global-links-cx_lm_0825naked.html?sh=f59ff078400b). A short squeeze, even one of this magnitude, should have squoze by now with GME up more than 10x in the span of weeks. Something is just not right. I think there is something much, much bigger going on here. Something big enough to blow up the entire financial system.
