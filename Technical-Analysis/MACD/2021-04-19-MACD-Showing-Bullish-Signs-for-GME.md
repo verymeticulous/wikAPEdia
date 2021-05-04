@@ -7,8 +7,6 @@ MACD on GME is showing bullish signs...
 
 ---
 
-**[Source](https://www.reddit.com/r/Superstonk/comments/mu5m16/macd_on_gme_is_showing_bullish_signs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
-
 [Education 👨‍🏫 | Data 🔢](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Education%20%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20%7C%20Data%20%F0%9F%94%A2%22&restrict_sr=1)
 
 Hello fellow apes!
