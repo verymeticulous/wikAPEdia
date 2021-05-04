@@ -1,9 +1,11 @@
 THE MYTHICAL UNICORN AKA EXTREMELY ABNORMAL negative beta of GME evidence that shorts have NOT covered by U/Animasoul
 =====================================================================================================================
 
-**Author: [u/Animasoul](https://www.reddit.com/u/Animasoul/)** 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Animasoul](https://www.reddit.com/u/Animasoul/) posted by [u/PIanetary](https://www.reddit.com/user/PIanetary/) | [Reddit](https://www.reddit.com/r/GME/comments/m6i4z2/the_mythical_unicorn_aka_extremely_abnormal/) | 
 
-**Posted by: [u/PIanetary](https://www.reddit.com/user/PIanetary/)**
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
