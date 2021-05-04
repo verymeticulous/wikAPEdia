@@ -1,7 +1,11 @@
 Today was intentionally a flat day to make short sellers bleed their reserve stock giving them less ammo during the gamma squeeze. Strap in for tomorrow / Monday! 🚀🚀🚀
 =========================================================================================================================================================================
 
-**Author: [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/) | [Reddit](https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
