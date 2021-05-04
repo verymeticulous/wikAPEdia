@@ -1,7 +1,11 @@
 Technicals Show GME is Going Much Higher. Analysis on Volume, MACD, and Short Availability. 🚀🚀🚀
 ==================================================================================================
 
-**Author: [u/Yonsei](https://www.reddit.com/user/Yonsei/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Yonsei](https://www.reddit.com/user/Yonsei/) | [Reddit](https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
