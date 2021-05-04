@@ -1,7 +1,11 @@
 GME Technical Retracement Looks Complete 🚀
 ===========================================
 
-**Author: [u/possibly6](https://www.reddit.com/user/possibly6/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/possibly6](https://www.reddit.com/user/possibly6/) | [Reddit](https://www.reddit.com/r/GME/comments/mcj90o/gme_technical_retracement_looks_complete/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
