@@ -1,7 +1,11 @@
 GME Magnum Opus theory: Round 3
 ===============================
 
-**Author: [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/muoepo/gme_magnum_opus_theory_round_3/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
