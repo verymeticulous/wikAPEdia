@@ -1,6 +1,10 @@
 # Negative Beta And VIX / GME
 
-**Author: [u/Kikanbase](https://www.reddit.com/user/Kikanbase/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Kikanbase](https://www.reddit.com/user/Kikanbase/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mnh49k/negative_beta_and_vix_gme/) | 
+
+---
 
 Good morning my fellow Apes. I just woke up and decided to open Twitter and see what miss Alexis Goldstein had to say and boy did I like what I read.
 
