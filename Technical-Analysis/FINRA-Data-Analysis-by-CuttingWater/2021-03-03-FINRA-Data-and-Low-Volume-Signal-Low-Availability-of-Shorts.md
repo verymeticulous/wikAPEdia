@@ -1,7 +1,11 @@
 FINRA data now shows only 28 million GME short volume over the past 3 days vs 67 million from Feb 24-26. With total trade volume also dropping 60% this week, could this be a sign of 💎✋ and low availability of shorts? 💎✋💎🚀🚀🚀
 =====================================================================================================================================================================================================================================
 
-**Author: [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/Cuttingwater_](https://www.reddit.com/user/Cuttingwater_/) | [Reddit](https://www.reddit.com/r/GME/comments/lx9ut2/finra_data_now_shows_only_28_million_gme_short/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
