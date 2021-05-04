@@ -1,7 +1,11 @@
 GME magnum opus update: theory confirmation today?
 ==================================================
 
-**Author [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mu1esp/gme_magnum_opus_update_theory_confirmation_today/) | 
+
+---
 
 [DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
