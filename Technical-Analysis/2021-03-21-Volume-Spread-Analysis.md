@@ -1,7 +1,11 @@
 VOLUME SPREAD ANALYSIS (1) SUCCESSFUL BREAKOUT, TRUE EXAMPLE IN GME LET'S DIG IN DEEP TECHNICAL ANALYSIS.
 =========================================================================================================
 
-**Author: [u/AeterSatyr](https://www.reddit.com/user/AeterSatyr/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/AeterSatyr](https://www.reddit.com/user/AeterSatyr/)| [Reddit](https://www.reddit.com/r/GME/comments/ma72nj/volume_spread_analysis_1_successful_breakout_true/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
