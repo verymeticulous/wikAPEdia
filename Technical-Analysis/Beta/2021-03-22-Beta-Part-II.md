@@ -1,7 +1,11 @@
 Beta Part 2: Extremely abnormal negative beta as indirect evidence of the risk management of shorts that have not covered
 =========================================================================================================================
 
-**Author: [u/animasoul](https://www.reddit.com/user/animasoul/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/animasoul](https://www.reddit.com/user/animasoul/) | [Reddit](https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
