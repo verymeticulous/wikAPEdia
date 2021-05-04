@@ -1,6 +1,12 @@
 Why GME's negative beta is meaningless and tells us nothing one way or the other about whether the shorts have covered
 ======================================================================================================================
 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Beartholomew](https://www.reddit.com/user/Beartholomew/) | [Reddit](https://www.reddit.com/r/GME/comments/m72qz0/why_gmes_negative_beta_is_meaningless_and_tells/) | 
+
+---
+
 **Author: [u/Beartholomew](https://www.reddit.com/user/Beartholomew/)**
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
