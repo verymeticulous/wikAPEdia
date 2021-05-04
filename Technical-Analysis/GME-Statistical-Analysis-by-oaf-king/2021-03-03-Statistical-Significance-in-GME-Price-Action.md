@@ -1,7 +1,11 @@
 Y'all, this is statistically significant action!
 ================================================
 
-**Author: [u/oaf_king](https://www.reddit.com/user/oaf_king/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/oaf_king](https://www.reddit.com/user/oaf_king/) | [Reddit](https://www.reddit.com/r/GME/comments/lx4gbv/yall_this_is_statistically_significant_action/) | 
+
+---
 
 [💎🙌](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%92%8E%F0%9F%99%8C%22&restrict_sr=1)
 
