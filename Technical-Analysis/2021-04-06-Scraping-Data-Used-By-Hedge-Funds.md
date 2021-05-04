@@ -1,6 +1,10 @@
 # I've been scraping data used by hedge funds for over a year now to make it freely available to everyone. I think I might start doing regular data reports on $GME on here if there's interest, let me know if you have any feedback on the report below.
 
-**Author [u/pdwp90](https://www.reddit.com/user/pdwp90/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/pdwp90](https://www.reddit.com/user/pdwp90/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mlevq3/ive_been_scraping_data_used_by_hedge_funds_for/) | 
+
+---
 
 This report is primarily comprised of "alternative data" which can be loosely thought of as data that comes from outside of traditional sources like earnings reports. The reason this type of data gets me so jacked is because it's data that retail investors (you guys) often have an edge over Wall Street in interpreting.
 
