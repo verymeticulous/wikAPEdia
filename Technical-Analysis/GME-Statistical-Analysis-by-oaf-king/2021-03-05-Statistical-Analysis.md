@@ -1,7 +1,11 @@
 Some additional thoughts on statistical analysis: DD for March 4 and 5
 ======================================================================
 
-**Author: [u/oaf_king](https://www.reddit.com/user/oaf_king/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/oaf_king](https://www.reddit.com/user/oaf_king/) | [Reddit](https://www.reddit.com/r/GME/comments/lxhatz/some_additional_thoughts_on_statistical_analysis/) | 
+
+---
 
 [DD](https://www.reddit.com/r/GME/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
