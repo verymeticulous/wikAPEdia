@@ -1,7 +1,11 @@
 MACD on GME is showing bullish signs...
 =======================================
 
-**Author: [u/himynameshassan](https://www.reddit.com/user/himynameshassan/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/himynameshassan](https://www.reddit.com/user/himynameshassan/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mu5m16/macd_on_gme_is_showing_bullish_signs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | 
+
+---
 
 **[Source](https://www.reddit.com/r/Superstonk/comments/mu5m16/macd_on_gme_is_showing_bullish_signs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
 
