@@ -1,7 +1,11 @@
 GME past, present, and (possible) future
 ========================================
 
-**Author: [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mtf4e4/gme_magnum_opus_dd_past_present_future/) | 
+
+---
 
 OC[DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
