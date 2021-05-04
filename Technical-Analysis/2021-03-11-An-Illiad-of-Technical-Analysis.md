@@ -1,7 +1,11 @@
 An Illiad of GME Technical Analysis and DD
 ==========================================
 
-**Author: [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/ma4oeo/an_illiad_of_gme_technical_analysis_and_dd/) | 
+
+---
 
 OC[DD](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22DD%22&restrict_sr=1)
 
