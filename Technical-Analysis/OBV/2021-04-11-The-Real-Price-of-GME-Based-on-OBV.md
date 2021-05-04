@@ -1,7 +1,11 @@
 The real price of GME is currently around 900-1k RIGHT NOW BASED ON OBV
 =======================================================================
 
-**Author: [u/jarofmy](https://www.reddit.com/user/jarofmy/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+| [u/jarofmy](https://www.reddit.com/user/jarofmy/)| [Reddit](https://www.reddit.com/r/Superstonk/comments/mp1sgt/the_real_price_of_gme_is_currently_around_9001k/) | 
+
+---
 
 [Possible DD 👨‍🔬](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Possible%20DD%20%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC%22&restrict_sr=1)
 
