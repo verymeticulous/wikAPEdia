@@ -1,7 +1,11 @@
 LPT - Learn about manipulative tactics and logical fallacies so that you can identify when someone is attempting to use them on you.
 ====================================================================================================================================
 
-**Author: [u/Tucker-French](https://www.reddit.com/user/Tucker-French/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Tucker-French](https://www.reddit.com/user/Tucker-French/) | [Reddit](https://www.reddit.com/r/wallstreetbets/comments/lgakjm/lpt_learn_about_manipulative_tactics_and_logical/) | 
+
+---
 
 [Discussion](https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
