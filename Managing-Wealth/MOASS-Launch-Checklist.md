@@ -3,7 +3,7 @@ MOASS Checklist R1
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-|  [u/2008UniGrad](https://www.reddit.com/user/2008UniGrad/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mt11t9/a_moass_launch_checklist_for_apes_pre_post_and/) | 
+|  [u/2008UniGrad](https://www.reddit.com/user/2008UniGrad/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n2jnp4/moass_checklist_r1/) | 
 
 ---
 
