@@ -1,6 +1,13 @@
 Limit Sell, Not Market Sell - Fidelity Spreadsheet
 ===================================================
 
+>:memo: **NOTE**
+>
+> **This post is out of date as [Fidelity recently increased their sell limits](https://www.reddit.com/r/fidelityinvestments/comments/n71vc7/freestyle_fridays_change_in_limit_order_pricing/).**
+
+
+
+
 | Author       | Source       | 
 | :-------------: |:-------------:|
 |  [u/LolliGoinTuTheMuun](https://www.reddit.com/user/LolliGoinTuTheMuun/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/mv57b8/re_limit_sell_not_market_sell_fidelity_spreadsheet/) | 
