@@ -5,7 +5,6 @@
 |  [RedChessQueen](https://www.reddit.com/user/redchessqueen99/) | [@RedChessQueen99](https://twitter.com/RedChessQueen99) |  |
 |  [Rensole](https://www.reddit.com/user/rensole/)  | [@rensole](https://twitter.com/ryancohen) |  |
 |  [HeyItsPixel](https://www.reddit.com/user/HeyItsPixeL/)  | [@heyitspixel69](https://twitter.com/heyitspixel69) |  |
-|  [WardenElite](https://www.reddit.com/user/wardenelite/)  | [@warden_elite](https://twitter.com/warden_elite) | [Warden Elite](https://www.youtube.com/channel/UCZDDUjJl54h9UidiwVotM_g) |
 |  [PinkCatsOnAcid](https://www.reddit.com/user/pinkcatsonacid/)  | [@PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid) |  |
 |  [Dennis Kelleher](https://www.reddit.com/user/WallSt4MainSt/)  | [@BetterMarkets](https://twitter.com/BetterMarkets) |  |
 | [Alexis Goldstein](https://www.reddit.com/user/dontfightthevol/)  | [@alexisgoldstein](https://twitter.com/alexisgoldstein) |  |
