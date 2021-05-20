@@ -1,6 +1,12 @@
 🚨 David Lauer AMA Transcript/Summary 🚨
 ========================================
 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Bye_Triangle](https://www.reddit.com/user/Bye_Triangle/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n7234n/david_lauer_ama_transcriptsummary/) | 
+
+---
+
 [Education 👨‍🏫 | Data 🔢](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Education%20%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20%7C%20Data%20%F0%9F%94%A2%22&restrict_sr=1)
 
 [![r/Superstonk - 🚨 David Lauer AMA Transcript/Summary 🚨](https://preview.redd.it/xaq1w5qjwpx61.jpg?width=1432&format=pjpg&auto=webp&s=3141218d0b49a8d4c781c933b50e6162983aa942)](https://preview.redd.it/xaq1w5qjwpx61.jpg?width=1432&format=pjpg&auto=webp&s=3141218d0b49a8d4c781c933b50e6162983aa942)
