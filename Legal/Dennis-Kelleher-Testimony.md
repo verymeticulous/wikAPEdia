@@ -1,7 +1,11 @@
 Dennis Kelleher's testimony is an eye-opening journey on how Robinhood and Citadel exist to fuck you
 ====================================================================================================
 
-**Author: [u/glide_si](https://www.reddit.com/user/glide_si/)**
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/glide_si](https://www.reddit.com/user/glide_si/) | [Reddit](https://www.reddit.com/r/GME/comments/m7e8xk/dennis_kellehers_testimony_is_an_eyeopening/) | 
+
+---
 
 [Discussion](https://www.reddit.com/r/GME/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 
