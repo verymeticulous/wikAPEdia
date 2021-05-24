@@ -11,7 +11,7 @@
 
 ---
 
-> **:information_source: Key Highlights and Takeaways**
+> **:information_source: Key Highlights and Takeaways** by [u/Meticulous-](https://www.reddit.com/user/Meticulous-)
 > 
 > **What is FINRA?**
 > 
