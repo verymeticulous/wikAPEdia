@@ -252,3 +252,33 @@ Individual investors who have comments or information should feel free to contac
 * * * * *
 ###### Modified: 4/8/2015
 
+---
+
+
+> **:information_source: Key Highlights and Takeaways** by [u/Meticulous-](https://www.reddit.com/user/Meticulous-)
+> 
+> **What is short selling?**
+> 
+> [Short selling](https://www.investopedia.com/terms/s/shortselling.asp) is selling a stock that **you do not own**.
+> 
+> **Is short selling illegal?**
+> 
+> Although the vast majority of short sales are legal, abusive short sale practices are illegal.
+> 
+> **What is naked short selling?**
+> 
+> [Naked shorting](https://www.investopedia.com/terms/n/nakedshorting.asp#:~:text=Naked%20shorting%20is%20the%20illegal,before%20they%20sell%20it%20short.) is an illegal practice of short selling shares that **do not exist**. This causes a failure to deliver (FTD).
+> 
+> **What is a Failure to Deliver (FTD)?**
+> 
+> A FTD results from either a short or long sale. FTDs can occur due to 
+> 1. Human or mechanical errors such as processing delays
+> 2. Buyers not having enough cash
+> 3. Sellers not having the securities
+> 
+> **What is the Regulation SHO?**
+> 
+> [Regulation SHO](https://www.investopedia.com/terms/r/regsho.asp) was a rule created by the SEC in 2005 to govern short selling.
+> 
+> In 2010, the Regulation SHO was amended to stop short selling on a security when prices have decreased by 10% or more during the trading day.
+
