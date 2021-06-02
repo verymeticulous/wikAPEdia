@@ -7,6 +7,12 @@ Citadel Securities Has Over $57,500,000,000 In Open Short Positions On Its Books
 
 ---
 
+> **:warning: Caution**
+> This post makes many assumptions. While it is interesting to see what Citadel's short position value was on 12/20/20, OPs leaps of faith using that info are incredibly shaky (ex. "assuming 50% of these short positions are in GME"....whoa, wait what?).
+> Please review and add a disclaimer." - [u/justsaysso](https://www.reddit.com/u/justsaysso/)
+
+---
+
 [Discussion 🦍](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Discussion%20%F0%9F%A6%8D%22&restrict_sr=1)
 
 <https://imgur.com/MWZFUUe>
