@@ -216,3 +216,64 @@ We're almost there. Let's go 🚀🚀🚀
 Art by YoungbloodAA
 
 TL;DR: [u/pinkcatsonacid](https://www.reddit.com/u/pinkcatsonacid/) and [u/Bye_Triangle](https://www.reddit.com/u/Bye_Triangle/) are now Full Permissions mods. Karma and Age limits are going way up, but basically Shillnet is approving users in periodic waves based on behavior over the past few months. Approved users bypass karma/age limits entirely. Sub is secured for MOASS. Pack your not-a-cat bananyas.
+
+--- 
+
+## Satori FAQs
+Howdy apes! [u/Bradduck_Flyntmoore](https://www.reddit.com/u/Bradduck_Flyntmoore/) here! As the Ape-bassador, it brings me real joy to see how excited everyape is about this. I can assure you, the mod team is equally excited. This new endeavor has a lot of potential, and I cannot wait to see it in action. That being said, the point of this sticky comment is to answer some of the questions (paraphrased) apes are having about Satori. I will be updating this sticky comment as I find more questions to answer. 🙏
+
+E: spacing; potnetial->potential
+
+Q: I haven't been approved yet, does that make me a shill?
+
+A: No, ape, it does not. Satori is approving apes in waves, and likely has not gotten to you yet. Just hodl on and all will be well.
+
+Q: What if the new bot overlords get carried away?
+
+A: I also fear potential technological overlords, fellow ape! Because of this, I asked the dev team for a LOT of clarifications on function, method, and execution. Obviously I can't say too much, but please have my assurance that the mod team is able to turn it off any time. Additionally, mods are able to prompt it to do things, or prevent it from doing things, or even undo things it has done. Again, anytime mods feel it is required.
+
+Q: How long will it take Satori to get through the waves of approvals?
+
+A: Sorry, fellow ape, you'll just have to be patient. Mods played this one close to the vest for a reason, and to give away extra info now would be counter-productive.
+
+E: > -> ?
+
+Q: Does Satori work retroactively or will it just look at the content on Superstonk moving forward?
+
+A: Yes. Both. Satori looks at ALL publicly available posts and comments on the sub.
+
+Q: How does approval work? Do I need to do anything?
+
+A: Just sit back and relax. Approval will come automatically; no action is required.
+
+Q: Why was Satori approved without unanimous approval from the mods?
+
+A: This is a fair and honest question, and I believe apes deserve to know the answer. The final vote tally was 10 for; 0 against; 2 abstain. Unfortunately, sometimes IRL events prevent mods from voting (decisions need to be made in a timely manner, after all), hence why not all mod votes are accounted for.
+
+Q: What if my karma/age requirements are already high enough, do I still need to be approved? What if I do not receive approval, does that mean I get banned?
+
+A: The approval process is to allow apes without the karma/age requirements the ability to participate in the sub. If you already have the required age/karma, AND if you do not get banned, there is nothing to fret over. Just carry on like Satori isn't even there.
+
+Q: What sort of transparency exists between mods for how Satori is used?
+
+A: All mods have access to the equivalent of a mod log for Satori. We can all see what actions it, and each other, take.
+
+Q: Will Satori continue monitoring users after they have been approved?
+
+A: Yes. Yes it will.
+
+Q: If Satori is going to be banning users, should we expect to see a drop in membership?
+
+A: This is entirely plausible, though the number of bans would have to exceed the number of new apes coming in daily. Don't be surprised if there is a dip, but also don't be surprised if there is not.
+
+Q: Can mods release info on the actions taken by Satori, like how many users were approved, how many users were banned, how many posts were deemed FUD-y, etc.?
+
+A: ~~I'm honestly not sure, but as I have mentioned in the comments, I'll speak with the dev and mod teams tomorrow and see if this is possible without spoiling the magic. Stay tuned~~. The dev team is meeting next Tuesday to review their first week of results. I won't have any additional info regarding this question until then. Stay tuned.
+
+Q: Is the requirement age AND karma, or is the requirement age OR karma (whichever is greater)?
+
+A: ~~I'm honestly not sure. I've never had an issue with either of those factors, personally, so I never bothered to look into it. I'll update this answer once I find out from one of the more experienced mods~~. This is an AND scenario. Apes must have the necessary age AND karma requirements to comment/post. Lacking either will result in automod action unless the ape has been approved by Satori already.
+
+Q: How do I know if I am approved?
+
+A: Apes will receive a notification saying as much.
