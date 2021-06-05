@@ -1,5 +1,16 @@
 # A central place for apes to learn about stonks. This is not financial advice.
 
+### Overview
+This repository of GME-related content and relevant information serves two primary purposes:
+1. Organize useful information so that it can be easily referenced in the future. 
+2. Create an archive/backup of relevant posts in case Reddit goes down or information is deleted from the internet. 
+
+> ❗❗❗ **PLEASE READ** ❗❗❗
+> 
+> Please note most if not all of this content is not my own. All authors and sources are linked at the top of each file, and I encourage you to read the content via the source. There are a lot of intelligent apes who spent copious amounts of time doing their research and deserve your upvote!
+
+---
+
 ### Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
