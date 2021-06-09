@@ -21,6 +21,7 @@ This repository of GME-related content and relevant information serves two prima
 | DD Overview | GME Masters' Guide | [u/Blanderson_Snooper](https://www.reddit.com/user/Blanderson_Snooper/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/) |
 | Regulations | Overview of Regulations | [u/MATTATI2OO5](https://www.reddit.com/user/MATTATI2OO5/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nkn84o/great_breakdownoverview_of_new_rules/) |
 | Market Manipulation | Compilation of Every Manipulation Tactic used by Hedge Funds | [u/Golden_D9](https://www.reddit.com/user/Golden_D9/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/) |
+| Market Manipulation | A Definitive Guide about Naked Shorting | [u/sharkbaitlol](https://www.reddit.com/user/sharkbaitlol/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/) |
 | DD | Hank's Big Bang | [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/) |
 ---
 
