@@ -23,6 +23,8 @@ This repository of GME-related content and relevant information serves two prima
 | Market Manipulation | Compilation of Every Manipulation Tactic used by Hedge Funds | [u/Golden_D9](https://www.reddit.com/user/Golden_D9/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/) |
 | Market Manipulation | A Definitive Guide about Naked Shorting | [u/sharkbaitlol](https://www.reddit.com/user/sharkbaitlol/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/) |
 | DD | Hank's Big Bang | [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/) |
+| DD | The Bigger Short | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/) |
+
 ---
 
 ### Buy, Hodl, Vote 💎🙌
