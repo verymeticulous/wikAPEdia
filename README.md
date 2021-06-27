@@ -4,8 +4,8 @@
     A central place for apes to learn about stonks. This is not financial advice.
 </h3>
 
-
-![image](https://user-images.githubusercontent.com/82035192/122643702-5c508f80-d0df-11eb-80a8-c1d5eadc56f8.png)
+![image](https://user-images.githubusercontent.com/82035192/123546870-7b2cd280-d72c-11eb-8ccc-9915a2f974a3.png)
+_Banner by [u/electriceasel](https://www.reddit.com/user/electriceasel/)_
 
 
 
@@ -108,3 +108,5 @@ Quant guy 2 - [u/myplayprofile](https://www.reddit.com/u/myplayprofile/)
 
 ---
 ### Buy, Hodl, ~~Vote~~ 💎🙌
+
+![image](https://user-images.githubusercontent.com/82035192/122643702-5c508f80-d0df-11eb-80a8-c1d5eadc56f8.png)
