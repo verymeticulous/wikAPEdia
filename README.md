@@ -110,3 +110,4 @@ Quant guy 2 - [u/myplayprofile](https://www.reddit.com/u/myplayprofile/)
 ### Buy, Hodl, ~~Vote~~ 💎🙌
 
 ![image](https://user-images.githubusercontent.com/82035192/122643702-5c508f80-d0df-11eb-80a8-c1d5eadc56f8.png)
+_Banner by [u/redchessqueen99](https://www.reddit.com/user/redchessqueen99/)_
