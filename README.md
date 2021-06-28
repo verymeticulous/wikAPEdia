@@ -40,6 +40,8 @@ This repository of GME-related content and relevant information serves two prima
 | DD | Hank's Big Bang | [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/) |
 | DD | The Bigger Short | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/) |
 | Market Manipulation | Dark Pools | [u/dlauer](https://www.reddit.com/user/dlauer/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/) |
+| DD | Go/No Go Launch Checklist | [u/nothingbuttherainsir](https://www.reddit.com/user/nothingbuttherainsir/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/) |
+_Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) directory for more important DD_
 
 ---
 
