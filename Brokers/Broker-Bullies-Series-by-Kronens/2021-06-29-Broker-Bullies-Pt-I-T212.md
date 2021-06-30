@@ -77,7 +77,7 @@ We'll keep this one in the back pocket for another day but you should know that 
 
 Part 2 -- What do I think T212 may have done wrong?
 
-[![r/Superstonk - Broker Bullies -- (Part 1 -- T212)](https://preview.redd.it/q45wyezr09871.png?width=3024&format=png&auto=webp&s=8aae6bb50cfc19a3ac935e96a08daf0bda8c88ef)](https://preview.redd.it/q45wyezr09871.png?width=3024&format=png&auto=webp&s=8aae6bb50cfc19a3ac935e96a08daf0bda8c88ef)
+![Screenshot 2021-06-30 064333](https://user-images.githubusercontent.com/82035192/123947603-8cfdb800-d96e-11eb-8142-0a76b1d5085b.png)
 
 You can see from the above picture the inner workings of a legal genius who just about managed to review the terms before the impulse to eat all the crayons took over.
 
