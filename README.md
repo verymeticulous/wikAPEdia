@@ -33,14 +33,14 @@ This repository of GME-related content and relevant information serves two prima
 | :-------------: | :-------------: |:-------------:| :-------------:|
 | Privacy & Protection | Ape Security Protocols |  [u/redchessqueen99](https://www.reddit.com/user/redchessqueen99/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nsgv3d/ape_security_protocols/) |
 | DD | House of Cards Series (PDF) | [u/atobitt](https://www.reddit.com/user/atobitt/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nm83eb/a_house_of_cards_parts_i_ii_iii_in_pdf/) |
-| DD Overview | GME Masters' Guide | [u/Blanderson_Snooper](https://www.reddit.com/user/Blanderson_Snooper/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/) |
+| DD | GME Masters' Guide | [u/Blanderson_Snooper](https://www.reddit.com/user/Blanderson_Snooper/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/) |
 | Regulations | Overview of Regulations | [u/MATTATI2OO5](https://www.reddit.com/user/MATTATI2OO5/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nkn84o/great_breakdownoverview_of_new_rules/) |
 | Market Manipulation | Compilation of Every Manipulation Tactic used by Hedge Funds | [u/Golden_D9](https://www.reddit.com/user/Golden_D9/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/) |
 | Market Manipulation | A Definitive Guide about Naked Shorting | [u/sharkbaitlol](https://www.reddit.com/user/sharkbaitlol/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/) |
-| DD | Hank's Big Bang | [u/HomeDepotHank69](https://www.reddit.com/user/HomeDepotHank69/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/) |
 | DD | The Bigger Short | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/) |
-| Market Manipulation | Dark Pools | [u/dlauer](https://www.reddit.com/user/dlauer/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/) |
 | DD | Go/No Go Launch Checklist | [u/nothingbuttherainsir](https://www.reddit.com/user/nothingbuttherainsir/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/) |
+| DD | Demystifying the Feds ON-RRP | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/) |
+| DD | MOASS Preparation Guide 2.0 | [u/socrates6210](https://www.reddit.com/user/socrates6210/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/) |
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
 
