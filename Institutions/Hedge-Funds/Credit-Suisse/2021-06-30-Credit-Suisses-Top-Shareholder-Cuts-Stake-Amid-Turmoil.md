@@ -6,6 +6,8 @@
 
 ---
 
+**Shoutout to [u/Baystreethooker](https://www.reddit.com/user/Baystreethooker/) for the article**
+
 The Qatar Investment Authority cut its stake in Credit Suisse Group AG to below 5%, deepening the turmoil surrounding the firm after a pair of scandals this year left it the worst-performing major bank stock in Europe.
 
 The Gulf nation sovereign wealth fund has a holding of 4.8% in Credit Suisse, or about 128 million shares, according to a filing with the Securities and Exchange Commission on Wednesday. The QIA had previously held about 133 million shares, making it the Swiss bank's biggest shareholder, according to Bloomberg data.
