@@ -34,25 +34,30 @@
 | [Investor.gov - Researching Investments](https://www.investor.gov/introduction-investing/getting-started/researching-investments) | Website that you walks you through how to do your due diligence. |
 | [Tax My Tendies](https://taxmytendies.com/) | Tools that helps you calculate how much you'll owe in taxes post-MOASS. (US only). |
 
+*Table inspired by [u/Truffluscious](https://www.reddit.com/user/Truffluscious/)*
+
 # GameStop 
 | Show support at | 
-| [Gamestop.com](https://www.gamestop.com/) |
-| [Become a PowerUp Rewards Member](https://www.gamestop.com/poweruprewards/) |
-| [... Which gets you a subscription to Game Informer Magazine](https://www.gameinformer.com/) |
-| [Follow Gamestop on Twitter](https://twitter.com/GameStop) |
-| [Subscribe to Gamestop's YouTube Channel](https://www.youtube.com/user/gamestopvideo) |
-| [Follow Gamestop on Twitch](https://www.twitch.tv/gamestop) |
-| [Follow Gamestop on Instagram](https://www.instagram.com/gamestop/?hl=en) |
+| :-: |
+| [Gamestop.com](https://www.gamestop.com/) | 
+| [Become a PowerUp Rewards Member](https://www.gamestop.com/poweruprewards/) | 
+| [... Which gets you a subscription to Game Informer Magazine](https://www.gameinformer.com/) | 
+| [Follow Gamestop on Twitter](https://twitter.com/GameStop) | 
+| [Subscribe to Gamestop's YouTube Channel](https://www.youtube.com/user/gamestopvideo) | 
+| [Follow Gamestop on Twitch](https://www.twitch.tv/gamestop) | 
+| [Follow Gamestop on Instagram](https://www.instagram.com/gamestop/?hl=en) | 
 | [Follow Gamestop on Facebook](https://www.facebook.com/GameStop) | 
-| [Apple Devices- Download the Gamestop App](https://apps.apple.com/us/app/gamestop/id406033647) (Link to App Store) |
+| [Apple Devices- Download the Gamestop App](https://apps.apple.com/us/app/gamestop/id406033647) (Link to App Store) | 
 | [Android Devices- Download the Gamestop App](https://play.google.com/store/apps/details?id=com.gamestop.powerup) (Link to Play Shop) |
 | Brands owned by Gamestop; ThinkGeek, GameInformer, [MicroMania](https://www.micromania.fr/), and [EB Games](https://www.ebgames.ca/) |
 | [Gamestop Ireland](https://www.gamestop.ie/), [Gamestop Germany](https://www.gamestop.de/) |
-*Table created by [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/)
+
+*Table created by [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/)*
  
 # Social Media
 | Name | Twitter | YouTube |
 | :-: | :-: | :-: |
+| [Superstonk](https://www.reddit.com/r/Superstonk/) | | 🚨 [Superstonk Emergency Broadcast](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA) 🚨 |
 | [u/DeepFuckingValue](https://www.reddit.com/user/DeepFuckingValue/) | [@TheRoaringKitty](https://twitter.com/theroaringkitty?lang=en) | [Roaring Kitty](https://www.youtube.com/channel/UC0patpmwYbhcEUap0bTX3JQ) |
 | Ryan Cohen | [@ryancohen](https://twitter.com/ryancohen) |  |
 | [RedChessQueen](https://www.reddit.com/user/redchessqueen99/) | [@RedChessQueen99](https://twitter.com/RedChessQueen99) |  |
