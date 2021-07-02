@@ -21,18 +21,6 @@ Can't find content in wikAPEdia that you think should be archived? Don't hesitat
 
 ---
 
-## Key Features
-### Search by Date 
-![image](https://user-images.githubusercontent.com/82035192/122644367-d7677500-d0e2-11eb-9cd7-a1443b36a33b.png) 
-
-### Search by Title
-![wikAPEdia-search-2](https://user-images.githubusercontent.com/82035192/122644436-1e556a80-d0e3-11eb-9cbe-0ecfacc14b09.png)
-
-### Browse by Theme
-![wikAPEdia-themes](https://user-images.githubusercontent.com/82035192/122644608-06321b00-d0e4-11eb-80b6-2a90a7019d64.png)
-
----
-
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
