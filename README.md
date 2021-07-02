@@ -46,6 +46,8 @@ _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main
 
 ---
 
+![image](https://user-images.githubusercontent.com/82035192/124322077-d3107280-db4c-11eb-84c1-6534161b4db7.png)
+
 ## Some People to Look Out For by [u/zedinstead](https://www.reddit.com/u/zedinstead/)
 
 Exponential Floor guy -- [u/JTH1](https://www.reddit.com/u/JTH1/)
