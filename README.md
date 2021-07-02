@@ -16,6 +16,11 @@ This repository of GME-related content and relevant information serves two prima
 
 > Please note most if not all of this content is not my own. All authors and sources are linked at the top of each file, and I encourage you to read the content via the source. There are a lot of intelligent apes who spent copious amounts of time doing their research and deserve your upvote!
 
+## How to Help
+Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
+
+---
+
 ## Key Features
 ### Search by Date 
 ![image](https://user-images.githubusercontent.com/82035192/122644367-d7677500-d0e2-11eb-9cd7-a1443b36a33b.png) 
@@ -112,6 +117,7 @@ Quant guy 1 - [u/xpurplexamyx](https://www.reddit.com/u/xpurplexamyx/)
 Quant guy 2 - [u/myplayprofile](https://www.reddit.com/u/myplayprofile/)
 
 ---
+
 ### Buy, Hodl, ~~Vote~~ 💎🙌
 
 ![image](https://user-images.githubusercontent.com/82035192/122643702-5c508f80-d0df-11eb-80a8-c1d5eadc56f8.png)
