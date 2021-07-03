@@ -4,6 +4,7 @@
 | :---: | :---: |
 | [GameStop Newsroom](https://gamestop.gcs-web.com/news-releases-0) | Stay up to date with GameStop's latest strategic initiatives. |
 | [GameStop Investor Relations](https://gamestop.gcs-web.com/home) | Source for GameStop's financial news. |
+| [Ape's Guide to the Galaxy](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/?utm_medium=android_app&utm_source=share) | Compilation of DD, News, Announcements, Tools, and Resources |
 | [GME DD](https://gmedd.com/) | Resource that aggregates a compilation of GME due diligence. |
 | [GME Timeline](https://gmetimeline.com/) | Comprehensive timeline of GME-related events. |
 | [GME Technical Analysis](https://www.investing.com/equities/gamestop-corp-technical) | Tracks technical analysis, news, and other insights for a particular stock. |
