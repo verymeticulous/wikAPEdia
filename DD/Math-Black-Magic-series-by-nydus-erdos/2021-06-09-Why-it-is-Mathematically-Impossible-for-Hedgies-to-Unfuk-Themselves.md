@@ -3,7 +3,7 @@ Math Black Magic Vol. 1: Why It Is Mathematically Impossible for Hedgies To Unfu
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-|  [u/nydus_erdos](https://www.reddit.com/user/nydus_erdos/) on behalf of  Margery Nesbitt | [Reddit](https://www.reddit.com/r/Superstonk/comments/nw8281/math_black_magic_vol_1_why_it_is_mathematically/) | 
+|  [u/nydus_erdos](https://www.reddit.com/user/nydus_erdos/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nw8281/math_black_magic_vol_1_why_it_is_mathematically/) | 
 
 ---
 
