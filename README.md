@@ -16,8 +16,21 @@ This repository of GME-related content and relevant information serves two prima
 
 > Please note most if not all of this content is not my own. All authors and sources are linked at the top of each file, and I encourage you to read the content via the source. There are a lot of intelligent apes who spent copious amounts of time doing their research and deserve your upvote!
 
-## How to Help
-Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
+---
+
+## Key Features
+
+### Search by Title 
+![search-by-title](https://user-images.githubusercontent.com/82035192/124510826-a6ee2f00-dda2-11eb-9d9b-d06f7733ebf1.gif)
+
+### Search by Date
+![search-by-date](https://user-images.githubusercontent.com/82035192/124510767-8de57e00-dda2-11eb-8464-58e6128f2708.gif)
+
+### Browse by Theme
+![browse-by-theme](https://user-images.githubusercontent.com/82035192/124510793-9a69d680-dda2-11eb-8357-c138029d03d8.png)
+
+### Save a Copy for Yourself
+![download-copy](https://user-images.githubusercontent.com/82035192/124511221-9db19200-dda3-11eb-9527-75418d9429f3.gif)
 
 ---
 
@@ -39,7 +52,7 @@ _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main
 
 ---
 
-## Some People to Look Out For by [u/zedinstead](https://www.reddit.com/u/zedinstead/)
+## 🦍 Some People to Look Out For by [u/zedinstead](https://www.reddit.com/u/zedinstead/) 🦍
 
 ![image](https://user-images.githubusercontent.com/82035192/124322077-d3107280-db4c-11eb-84c1-6534161b4db7.png)
 *Banner created by [GameStop](https://twitter.com/GameStop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)*
@@ -105,6 +118,9 @@ Quant guy 1 - [u/xpurplexamyx](https://www.reddit.com/u/xpurplexamyx/)
 Quant guy 2 - [u/myplayprofile](https://www.reddit.com/u/myplayprofile/)
 
 ---
+
+## 🆘 How to Help 🆘
+Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
 
 ### Buy, Hodl, ~~Vote~~ 💎🙌
 
