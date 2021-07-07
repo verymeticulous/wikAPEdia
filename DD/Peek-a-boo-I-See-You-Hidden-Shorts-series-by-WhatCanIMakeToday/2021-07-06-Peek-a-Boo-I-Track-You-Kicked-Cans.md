@@ -28,6 +28,8 @@ So I did the same for the highest OI Jan 2022 leap puts (@ $0.50 strike) and the
 
 Have a nice chart:
 
+![Put Open Interest Change per Day for March, July, and Jan 2022 Leap Options](https://user-images.githubusercontent.com/82035192/124762045-73291b80-df00-11eb-9c0c-81ef5f99c7f5.png)
+
 [Put Open Interest Change per Day for March, July, and Jan 2022 Leap Options](https://preview.redd.it/u3armgxwrm971.png?width=1452&format=png&auto=webp&s=85e3e66ebf404f7c9f2b3f02ab870b6ba3f5ace3)
 
 Here we can see lots of March 19th $1.00 Put options (green line) being opened in January at the "Oh Shit" moment and again in late February (presumably soon after the Feb options expired). This suggests the March expiration was used twice for can kicking from Jan and then again in Feb.
