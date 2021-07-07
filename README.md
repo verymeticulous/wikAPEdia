@@ -47,6 +47,7 @@ This repository of GME-related content and relevant information serves two prima
 | DD | Go/No Go Launch Checklist | [u/nothingbuttherainsir](https://www.reddit.com/user/nothingbuttherainsir/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/) |
 | DD | Demystifying the Feds ON-RRP | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/) |
 | DD | MOASS Preparation Guide 2.0 | [u/socrates6210](https://www.reddit.com/user/socrates6210/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/) |
+| Regulations | TLDR of Regulations Update | [u/stevetheimpact](https://www.reddit.com/user/stevetheimpact/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/o5mhie/tldr_regulations_edition_updated_20210622_to/)
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
 
