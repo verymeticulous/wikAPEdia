@@ -1,5 +1,8 @@
 # Resources
 
+| Last Updated | July 7, 2021 |
+| :---: | :---: |
+
 | Name | Description |
 | :---: | :---: |
 | [GameStop Newsroom](https://gamestop.gcs-web.com/news-releases-0) | Stay up to date with GameStop's latest strategic initiatives. |
@@ -34,6 +37,8 @@
 | [US House of Representatives Stock Watcher](https://housestockwatcher.com/) | Website created by [u/rambat1994](https://www.reddit.com/u/rambat1994/) that tracks stock trades of US House of Representatives. |
 | [Investor.gov - Researching Investments](https://www.investor.gov/introduction-investing/getting-started/researching-investments) | Website that you walks you through how to do your due diligence. |
 | [Tax My Tendies](https://taxmytendies.com/) | Tools that helps you calculate how much you'll owe in taxes post-MOASS. (US only). |
+| [Gamestop NFT](https://nft.gamestop.com/) | GameStops' official NFT website |
+| [GME NFT Relationships](https://github.com/schismsaints/GME_NFT) | Graphic that shows the relationships between GME tokens. |
 
 *Table inspired by [u/Truffluscious](https://www.reddit.com/user/Truffluscious/)*
 
