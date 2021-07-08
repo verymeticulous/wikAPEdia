@@ -7,7 +7,7 @@
 | Regulation       | Description     | Date Effective | PDF      | 
 | :-------------: |:-------------| :-------------:| :-------------:|
 | **DTC** | **The Depository Trust Company is a subsidiary of the DTCC, and was created to reduce costs and provide clearing and settlement efficiencies.** [[1]](https://www.dtcc.com/about/businesses-and-subsidiaries/dtc) | | **[Regulatory Rule Filings](https://www.dtcc.com/legal/sec-rule-filings?subsidiary=DTC&pgs=1)** |
-| SR-DTC-2021-003 | Changes the risk/margin reporting period from monthly to daily. | 2021-03-16 | [SR-DTC-2021-003-Approval-Notice.pdf](https://github.com/verymeticulous/wikAPEdia/files/6784840/SR-DTC-2021-003-Approval-Notice.pdf)| 
+| SR-DTC-2021-003 | Changes the risk/margin reporting period from monthly to daily. | ✅ 2021-03-16 | [SR-DTC-2021-003-Approval-Notice.pdf](https://github.com/verymeticulous/wikAPEdia/files/6784840/SR-DTC-2021-003-Approval-Notice.pdf)| 
 | SR-DTC-2021-004 | Outlines procedures for asset liquidation in the event of a defaulting member. | ✅ 2021-03-16 | [SR-DTC-2021-004.pdf](https://github.com/verymeticulous/wikAPEdia/files/6784834/SR-DTC-2021-004.pdf) | 
 | SR-DTC-2021-005 | Prevents loaned/borrowed shares from being loaned/borrowed more than once. | ✅ 2021-06-25 | [SR-DTC-2021-005.pdf](https://github.com/verymeticulous/wikAPEdia/files/6784788/SR-DTC-2021-005.pdf) | 
 | SR-DTC-2021-006 | Removes the old method of asset tracking in favor of SR-DTC-2021-005. | ✅ 2021-04-21 | [SR-DTC-2021-006.pdf](https://github.com/verymeticulous/wikAPEdia/files/6784830/SR-DTC-2021-006.pdf) | 
