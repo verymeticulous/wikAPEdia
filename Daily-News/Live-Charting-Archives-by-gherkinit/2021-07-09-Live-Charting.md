@@ -1,4 +1,4 @@
-erkin' it with Gherkinit S4 E6 Live Charting with 7/9/2021
+Jerkin' it with Gherkinit S4 E6 Live Charting with 7/9/2021
 ==========================================================
 
 | Author       | Source       | 
