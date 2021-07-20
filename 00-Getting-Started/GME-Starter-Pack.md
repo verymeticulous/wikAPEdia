@@ -1,12 +1,19 @@
-# GME STARTER PACK!
+GME STARTER PACK!
+=================
 
-Author: u/Hmuz1991
+| Author      | Source | 
+|  :----:     |    :----:   |        
+| [u/Hmuz1991](https://www.reddit.com/user/Hmuz1991/) | [Reddit](https://web.archive.org/web/20210321105011if_/https://www.reddit.com/r/GME/duplicates/lzxb35/gme_starter_pack/) |
+
+---
+
+[🔬 DD 📊](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%94%AC%20DD%20%F0%9F%93%8A%22&restrict_sr=1)
 
 Welcome!
 
 This is a post containing some definitions and useful links for you (especially those new to the GME saga). I hope you find this useful. Please note this is a work in constant progress so please add stuff / write corrections in the comments which I will edit it in!
 
-First off, here is a good summary of the story here.
+First off, here is a good summary of the story [here](https://www.reddit.com/r/GME/comments/lzgjmb/my_typofilled_twitter_thread_on_gme_backstory_has/).
 
 Secondly, Here are some definitions of Key Lingo used (in alphabetical order):
 
@@ -34,7 +41,7 @@ Secondly, Here are some definitions of Key Lingo used (in alphabetical order):
 
 **FOMO**: A fear of missing out trade occurs when you notice a sharp rally or slump in a stock, and the desire to join in on the price movement
 
-**GUH**: a meme expression referring to a really big mistake in investment, this is derived from a famous incident explained here.
+**GUH**: a meme expression referring to a really big mistake in investment, this is derived from a famous incident explained [here](https://youtube.com/watch?v=qKXrVriacUM).
 
 **Hedgies**: a term for Hedge Funds, mainly the 'bad guys' who have over-shorted GME (Melvin and Citadel are the main ones)
 
@@ -79,9 +86,9 @@ Thirdly, here are some definitions of key financial terms in alphabetical order 
 
 **Market Makers** (MM): Many market makers are often brokerage houses that provide trading services for investors in an effort to keep financial markets liquid. A market maker can also be an individual trader (known as a local), but due to the size of securities needed to facilitate the volume of purchases and sales, the vast majority of market makers work on behalf of large institutions.
 
-**Naked Short**: the illegal practice of short selling shares that have not been affirmatively determined to exist.
+**Naked Short**: the illegal practice of [short selling](https://www.investopedia.com/terms/s/shortselling.asp) shares that have not been affirmatively determined to exist.
 
-**Naked Calls**: A naked call is an options strategy in which an investor writes (sells) call options on the open market without owning the underlying security.
+**Naked Calls**: A naked call is an options strategy in which an investor [writes](https://www.investopedia.com/terms/w/writing-an-option.asp) (sells) [call options](https://www.investopedia.com/terms/c/calloption.asp) on the open market without owning the underlying security.
 
 **Options**: Options are financial instruments that are derivatives based on the value of underlying securities such as stocks. An options contract offers the buyer the opportunity to buy or sell—depending on the type of contract they hold—the underlying asset.
 
@@ -93,18 +100,18 @@ Thirdly, here are some definitions of key financial terms in alphabetical order 
 
 **Short** (or Short position): A short, or a short position, is created when a trader sells a security first with the intention of repurchasing it or covering it later at a lower price. A trader may decide to short a security when she believes that the price of that security is likely to decrease in the near future.
 
-**Short Interest** (or SI): Short interest is the number of shares that have been sold short but have not yet been covered or closed out. Short interest, which can be expressed as a number or percentage, is an indicator of market sentiment.
+**Short Interest** (or SI): Short interest is the number of shares that have been [sold short](https://www.investopedia.com/terms/s/shortselling.asp) but have not yet been [covered](https://www.investopedia.com/terms/s/shortcovering.asp) or closed out. Short interest, which can be expressed as a number or percentage, is an indicator of market sentiment.
 
 
 Finally, here are some key useful links to get you up to speed!
 
-Daily recap before market opens
+[Daily recap before market opens](https://www.reddit.com/user/rensole/submitted/)
 
-Daily collection of good research
+[Daily collection of good research](https://www.reddit.com/r/GME/comments/lj1wqv/a_comprehensive_compilation_of_all_due_diligence/)
 
-Free Live L2 Data Stream
+[Free Live L2 Data Stream](https://www.youtube.com/channel/UCdwwRjEyseTOUYxUWZn2Uqw)
 
-All key figures in one place
+[All key figures in one place](https://gme.crazyawesomecompany.com/)
 
 
 
