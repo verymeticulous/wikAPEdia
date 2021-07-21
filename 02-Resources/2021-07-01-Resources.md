@@ -66,8 +66,6 @@
 | [Superstonk](https://www.reddit.com/r/Superstonk/) | | 🚨 [Superstonk Emergency Broadcast](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA) 🚨 |
 | [u/DeepFuckingValue](https://www.reddit.com/user/DeepFuckingValue/) | [@TheRoaringKitty](https://twitter.com/theroaringkitty?lang=en) | [Roaring Kitty](https://www.youtube.com/channel/UC0patpmwYbhcEUap0bTX3JQ) |
 | Ryan Cohen | [@ryancohen](https://twitter.com/ryancohen) |  |
-| [RedChessQueen](https://www.reddit.com/user/redchessqueen99/) | [@RedChessQueen99](https://twitter.com/RedChessQueen99) |  |
-| [Rensole](https://www.reddit.com/user/rensole/) | [@rensole](https://twitter.com/ryancohen) |  |
 | [HeyItsPixel](https://www.reddit.com/user/HeyItsPixeL/) | [@heyitspixel69](https://twitter.com/heyitspixel69) |  |
 | [PinkCatsOnAcid](https://www.reddit.com/user/pinkcatsonacid/) | [@PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid) |  |
 | [Dennis Kelleher](https://www.reddit.com/user/WallSt4MainSt/) | [@BetterMarkets](https://twitter.com/BetterMarkets) |  |
