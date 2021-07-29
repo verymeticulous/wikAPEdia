@@ -109,6 +109,3 @@ _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main
 Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
 
 ### Buy, Hodl, ~~Vote~~ 💎🙌
-
-![image](https://user-images.githubusercontent.com/82035192/122643702-5c508f80-d0df-11eb-80a8-c1d5eadc56f8.png)
-_Banner by [u/redchessqueen99](https://www.reddit.com/user/redchessqueen99/)_
