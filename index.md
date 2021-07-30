@@ -1,9 +1,3 @@
-<h1 align="center"> wikAPEdia </h1>
-
-<h3 align="center">
-    A central place for apes to learn about stonks. This is not financial advice.
-</h3>
-
 ![image](https://user-images.githubusercontent.com/82035192/123546870-7b2cd280-d72c-11eb-8ccc-9915a2f974a3.png)
 _Banner by [u/electriceasel](https://www.reddit.com/user/electriceasel/)_
 
