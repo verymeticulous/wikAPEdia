@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/82035192/123546870-7b2cd280-d72c-11eb-8ccc-9915a2f974a3.png)
-_Banner by [u/electriceasel](https://www.reddit.com/user/electriceasel/)_
+
+
+![gs-astronaut](https://user-images.githubusercontent.com/82035192/127683675-9e0a077c-efa9-4e86-aaa4-3272c8622449.jpeg)
+_Image created by [GameStop](https://twitter.com/GameStop)_
 
 ## Must Read/Serious DD
 
