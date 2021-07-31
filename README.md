@@ -106,6 +106,6 @@ _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main
 ---
 
 ## 🆘 How to Help 🆘
-Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
+Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to [u/Meticulous-](https://www.reddit.com/user/Meticulous-) or [u/jsmar18](https://www.reddit.com/user/jsmar18) on Reddit!
 
 ### Buy, Hodl, ~~Vote~~ 💎🙌
