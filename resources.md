@@ -2,7 +2,7 @@
 
 ---
 
-### Resources
+## Resources
 
 |Name|Description|
 |:-|:-|
