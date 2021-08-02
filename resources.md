@@ -1,5 +1,7 @@
 ### [Must Read/Serious DD](index.md) |  [Wealth Mangement](wealth-management.md) | [Regulations](regulations.md)
 
+---
+
 ### Resources
 
 |Name|Description|
