@@ -1,3 +1,5 @@
+### [Must Read/Serious DD](index.md) | [Resources](resources.md) | [Wealth Mangement](wealth-management.md) 
+
 ## Regulations
 
 |Regulation|Description|Date Effective|PDF|
