@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Resources"
-redirect_from:
-  - /resources/
-  - /resources.html
----
-
 ### Resources
 
 |Name|Description|
