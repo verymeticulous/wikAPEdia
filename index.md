@@ -1,4 +1,4 @@
-### [Resources](resources.md) | [Wealth Mangement](wealth-management.md) | 
+### [Resources](resources.md) | [Wealth Mangement](wealth-management.md) | [Regulations](regulations.md)
 
 ---
 
