@@ -1,3 +1,5 @@
+[Resources](resources.md)
+
 ![gs-astronaut](https://user-images.githubusercontent.com/82035192/127741245-c5e788dd-11c0-4311-8c43-56ae5d9399b5.jpeg)
 _Image created by [GameStop](https://twitter.com/GameStop)_
 
