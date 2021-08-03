@@ -1,5 +1,5 @@
-| [Must Read/Serious DD](index.md)|[Resources](resources.md)|[Wealth Mangement](wealth-management.md)| [Regulations](regulations.md) |  [Know Your Enemies](know-your-enemies.md) |
-|:-:|:-|:-:| :-:| :-:|
+#### [Must Read/Serious DD](index.md) | [Resources](resources.md) | [Wealth Mangement](wealth-management.md) | [Regulations](regulations.md) |  [Know Your Enemies](know-your-enemies.md) 
+
 ---
 
 ### Regulations
