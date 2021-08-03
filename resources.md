@@ -44,7 +44,7 @@
 
 # GameStop 
 | Show support at | 
-| :-: |
+| :---: | 
 | [Gamestop.com](https://www.gamestop.com/) | 
 | [Become a PowerUp Rewards Member](https://www.gamestop.com/poweruprewards/) | 
 | [... Which gets you a subscription to Game Informer Magazine](https://www.gameinformer.com/) | 
@@ -60,7 +60,7 @@
  
 # Social Media
 | Name | Twitter | YouTube |
-| :-: | :-: | :-: |
+| :---: | :---: | :---: | 
 | [Superstonk](https://www.reddit.com/r/Superstonk/) | | 🚨 [Superstonk Emergency Broadcast](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA) 🚨 |
 | [u/DeepFuckingValue](https://www.reddit.com/user/DeepFuckingValue/) | [@TheRoaringKitty](https://twitter.com/theroaringkitty?lang=en) | [Roaring Kitty](https://www.youtube.com/channel/UC0patpmwYbhcEUap0bTX3JQ) |
 | Ryan Cohen | [@ryancohen](https://twitter.com/ryancohen) |  |
