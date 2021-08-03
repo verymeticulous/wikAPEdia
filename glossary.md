@@ -98,4 +98,4 @@
 | Volume | The quantity of transactions for a given security. Volume is typically measured against the 10-day average for volume.|  
 | Whale | A person or institute with large sums of cash. |
 
-_Glossary table inspired by [u/dexter_analyst](https://www.reddit.com/user/dexter_analyst/) [u/Bye_Triangle](https://www.reddit.com/u/Bye_Triangle) [u/Hmuz1991](https://www.reddit.com/u/Hmuz1991)_
+_Glossary table inspired by [u/dexter_analyst](https://www.reddit.com/user/dexter_analyst/), [u/Bye_Triangle](https://www.reddit.com/u/Bye_Triangle), and [u/Hmuz1991](https://www.reddit.com/u/Hmuz1991)_
