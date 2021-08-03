@@ -54,11 +54,7 @@ This repository of GME-related content and relevant information serves two prima
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
-
-### Under Construction, Please...
-
-![image](https://user-images.githubusercontent.com/82035192/127345155-6cb1118c-f3e9-4f50-820a-ed514eee4993.png)
-_Image created by [u/onlyfuturehuman](https://www.reddit.com/user/onlyfuturehuman/)_
+| Resource | wikAPEdia - The Website (Beta) | [u/Meticulous-](https://www.reddit.com/u/Meticulous-/) | [verymeticulous.github.io/wikAPEdia](https://verymeticulous.github.io/wikAPEdia/)
 
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
