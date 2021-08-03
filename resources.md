@@ -42,36 +42,4 @@
 | [Gamestop NFT](https://nft.gamestop.com/) | GameStops' official NFT website |
 | [GME NFT Relationships](https://github.com/schismsaints/GME_NFT) | Graphic that shows the relationships between GME tokens. |
 
-# GameStop 
-| Show support at | 
-| :---: | 
-| [Gamestop.com](https://www.gamestop.com/) | 
-| [Become a PowerUp Rewards Member](https://www.gamestop.com/poweruprewards/) | 
-| [... Which gets you a subscription to Game Informer Magazine](https://www.gameinformer.com/) | 
-| [Follow Gamestop on Twitter](https://twitter.com/GameStop) | 
-| [Subscribe to Gamestop's YouTube Channel](https://www.youtube.com/user/gamestopvideo) | 
-| [Follow Gamestop on Twitch](https://www.twitch.tv/gamestop) | 
-| [Follow Gamestop on Instagram](https://www.instagram.com/gamestop/?hl=en) | 
-| [Follow Gamestop on Facebook](https://www.facebook.com/GameStop) | 
-| [Apple Devices- Download the Gamestop App](https://apps.apple.com/us/app/gamestop/id406033647) (Link to App Store) | 
-| [Android Devices- Download the Gamestop App](https://play.google.com/store/apps/details?id=com.gamestop.powerup) (Link to Play Shop) |
-| Brands owned by Gamestop; ThinkGeek, GameInformer, [MicroMania](https://www.micromania.fr/), and [EB Games](https://www.ebgames.ca/) |
-| [Gamestop Ireland](https://www.gamestop.ie/), [Gamestop Germany](https://www.gamestop.de/) |
- 
-# Social Media
-| Name | Twitter | YouTube |
-| :---: | :---: | :---: | 
-| [Superstonk](https://www.reddit.com/r/Superstonk/) | | 🚨 [Superstonk Emergency Broadcast](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA) 🚨 |
-| [u/DeepFuckingValue](https://www.reddit.com/user/DeepFuckingValue/) | [@TheRoaringKitty](https://twitter.com/theroaringkitty?lang=en) | [Roaring Kitty](https://www.youtube.com/channel/UC0patpmwYbhcEUap0bTX3JQ) |
-| Ryan Cohen | [@ryancohen](https://twitter.com/ryancohen) |  |
-| [HeyItsPixel](https://www.reddit.com/user/HeyItsPixeL/) | [@heyitspixel69](https://twitter.com/heyitspixel69) |  |
-| [Dennis Kelleher](https://www.reddit.com/user/WallSt4MainSt/) | [@BetterMarkets](https://twitter.com/BetterMarkets) |  |
-| [Alexis Goldstein](https://www.reddit.com/user/dontfightthevol/) | [@alexisgoldstein](https://twitter.com/alexisgoldstein) |  |
-| Justin Dopierala | [@DOMOCAPITAL](https://twitter.com/DOMOCAPITAL) | [DOMO Capital Managment LLC](https://www.youtube.com/channel/UC3rCaBlsLlWJagcpbsais4w) |
-| Susanne Trimbath, PhD | [@SusanneTrimbath](https://twitter.com/SusanneTrimbath) |  |
-| [Dave Lauer](https://www.reddit.com/user/dlauer) | [@dlauer](https://twitter.com/dlauer) |  |
-| Andy Lee |  | [Andy Lee](https://www.youtube.com/channel/UC2e4QZAVEXQyH7BXfEE1GyA) |
-| [ByeTriangle](https://www.reddit.com/user/Bye_Triangle/) | [@ByeTriangle](https://twitter.com/ByeTriangle) | |
-| [sharkbait](https://www.reddit.com/user/sharkbaitlol) | [@u_sharkbaitlol](https://twitter.com/u_sharkbaitlol) | |
-| [BradduckF](https://www.reddit.com/user/Bradduck_Flyntmoore/) | [@BradduckF](https://twitter.com/BradduckF) | |
 
