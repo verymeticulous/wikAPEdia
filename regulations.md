@@ -2,7 +2,7 @@
 
 ---
 
-## Regulations
+### Regulations
 
 |Regulation|Description|Date Effective|PDF|
 |:-|:-|:-|:-|
