@@ -3,7 +3,7 @@
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-|  [u/Ravada](https://www.reddit.com/user/Ravada/) | [Reddit]() | 
+|  [u/Ravada](https://www.reddit.com/user/Ravada/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/n6gor1/06052021_gme_bloomberg_terminal_information/) | 
 
 ---
 
