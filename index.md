@@ -10,6 +10,7 @@ _Image created by [GameStop](https://twitter.com/GameStop)_
 
 |Published Date|Title|Author|
 |:-:|:-|:-:|
+| 2021 | <a href="https://www.youtube.com/watch?v=GZTr1-Gp74U&t=1s" target="_blank">100%+ Short Interest in GameStop stock (GME) - Fundamental & Technical Deep Value Analysis</a> |
 |2020-07-27|[100%+ Short Interest in GameStop stock (GME) - Fundamental & Technical Deep Value Analysis](https://www.youtube.com/watch?v=GZTr1-Gp74U&t=1s)|u/DeepFuckingValue|
 |2021-03-13|[Citadel Has No Clothes](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)|u/atobitt|
 |2021-03-30|[The EVERYTHING Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)|u/atobitt|
