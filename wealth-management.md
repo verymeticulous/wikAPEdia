@@ -3,7 +3,7 @@
 ---
 
 
-### Wealth Mangement Due Diligence
+### Wealth Management Due Diligence
 
 |Name|Description|Author|
 |:-|:-|:-|
