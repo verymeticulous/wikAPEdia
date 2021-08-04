@@ -10,7 +10,7 @@ _Image created by [GameStop](https://twitter.com/GameStop)_
 
 |Published Date|Title|Author|
 |:-:|:-|:-:|
-|2020-07-27| <a href="https://www.youtube.com/watch?v=GZTr1-Gp74U&t=1s" target="_blank">100%+ Short Interest in GameStop stock (GME) - Fundamental & Technical Deep Value Analysis</a>|u/DeepFuckingValue|
+|2020-07-27| <a href="https://www.youtube.com/watch?v=GZTr1-Gp74U&t=1s" target="_blank">100%+ Short Interest in GameStop stock (GME) - Fundamental & Technical Deep Value Analysis </a> (YouTube) 🔊|u/DeepFuckingValue|
 |2021-03-13|<a href="https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/" target="_blank">Citadel Has No Clothes</a>|u/atobitt|
 |2021-03-30|<a href="https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/" target="_blank">The EVERYTHING Short</a>|u/atobitt|
 |2021-03-30|<a href="https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/The-Naked-Shorting-Scam-by-broccaaa" target="_blank">Naked Shorting Scam</a> Series|u/broccaaa|
