@@ -1,6 +1,12 @@
 17/05/2021 - GME Bloomberg Terminal information
 ===============================================
 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Ravada](https://www.reddit.com/user/Ravada/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/ner38d/17052021_gme_bloomberg_terminal_information/) | 
+
+---
+
 [Education 👨‍🏫 | Data 🔢](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22Education%20%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20%7C%20Data%20%F0%9F%94%A2%22&restrict_sr=1)
 
 ## 3 Day Chart
