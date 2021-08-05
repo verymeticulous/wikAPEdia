@@ -16,6 +16,7 @@
 | [IBorrowDesk](https://iborrowdesk.com/report/GME) | Monitors borrow rates and availability using Interactive Broker's freely available data. |
 | [Stonk-O-Tracker](https://gme.crazyawesomecompany.com/) | Tracks available shares to borrow, options data, FTDs, and more. |
 | [Where are the Shares?](https://wherearetheshares.com/) | Tool that monitors FTDs. |
+| [Stocksera](https://stocksera.pythonanywhere.com/ticker/failure_to_deliver/?quote=Gme) | Another tool that provides FTD data. |
 | [SEC - Fails-to-Deliver Data](https://www.sec.gov/data/foiadocsfailsdatahtm) | Website that provides FTD data. |
 | [GME ETFs](https://www.etf.com/stock/GME) | Tracks how many ETFs hold GME. |
 | [ETF Channel](https://www.etfchannel.com/symbol/gme/) | Website that shows ETF holdings of a particular stock. |
