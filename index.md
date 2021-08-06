@@ -32,6 +32,7 @@ _Image created by [GameStop](https://twitter.com/GameStop)_
 |2021-06-15|<a href="https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/" target="_blank">In Death by 1000 Cuts, SHF Just Received their 999 Cut</a>|u/No1Important_4real|
 |2021-06-18|<a href="https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/Sun-Never-Sets-on-Citadel-by-swede-child-of-mine" target="_blank">The Sun Never Sets on Citadel</a> Series|u/swede_child_of_mine|
 |2021-06-21|<a href="https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/" target="_blank">Fed is Pinned into a Corner from 2008 Can-Kicking</a>|u/Criand|
+|2021-06-21| <a href="https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/Hyperinflation-is-Coming-The-Dollar-Endgame-by-peruvian-bull" target="_blank">Hyperinflation is Coming - The Dollar Endgame</a> Series | u/peruvian_bull |
 |2021-06-22|<a href="https://github.com/verymeticulous/wikAPEdia/blob/main/01-Must-Read/2021-06-22-The-Long-Con.md" target="_blank">The Long Con</a>|u/Con101smd|
 |2021-06-22|<a href="https://github.com/verymeticulous/wikAPEdia/blob/main/01-Must-Read/2021-06-22-Through-the-Looking-Glass.md" target="_blank">Through the Looking Glass</a>|u/Con101smd|
 |2021-06-22|<a href="https://www.reddit.com/r/Superstonk/comments/o5mhie/tldr_regulations_edition_updated_20210622_to/" target="_blank">Updated TLDR of Regulations</a>|u/stevetheimpact|
