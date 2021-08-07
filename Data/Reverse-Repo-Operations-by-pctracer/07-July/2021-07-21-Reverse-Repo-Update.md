@@ -3,7 +3,7 @@
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-|  [u/](https://www.reddit.com/user/pctracer/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/ooufp2/daily_reverse_repo_update_0721_886206b/) | 
+|  [u/pctracer](https://www.reddit.com/user/pctracer/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/ooufp2/daily_reverse_repo_update_0721_886206b/) | 
 
 ---
 
