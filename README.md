@@ -1,4 +1,4 @@
-<h1 align="center"> wikAPEdia </h1>
+<h1 align="center"> <a href="https://verymeticulous.github.io/wikAPEdia/" target="_blank">wikAPEdia</a> </h1>
 
 <h3 align="center">
     A central place for apes to learn about stonks. This is not financial advice.
@@ -14,11 +14,25 @@ This repository of GME-related content and relevant information serves two prima
 1. **Organize** useful information so that it can be easily referenced in the future. 
 2. Create an **archive** of relevant posts in case Reddit goes down or information is deleted from the internet. 
 
-> Please note most if not all of this content is not my own. All authors and sources are linked at the top of each file, and I encourage you to read the content via the source. There are a lot of intelligent apes who spent copious amounts of time doing their research and deserve your upvote!
+> 🛑 **Note** 🛑
+> 
+> Most of this content is not my own. All authors and sources are linked at the top of each file. **I encourage you to read the content via the source.** This resource would not have been able to be created without the thousands of wrinkle-brained apes. They deserve your support!
 
 ---
 
 ## Key Features
+
+### Website
+⚠️ **The beta version of the <a href="https://verymeticulous.github.io/wikAPEdia/" target="_blank">wikAPEdia website</a> is live now!** ⚠️
+
+![wikapedia-index](https://user-images.githubusercontent.com/82035192/128612044-45a22c40-73f9-4c5c-9ce1-3b1028084d1b.png) 
+
+You'll be able to find browse multiple compilations of due diligence (DD) like:
+1. <a href="https://verymeticulous.github.io/wikAPEdia/" target="_blank">Must Read DD</a>
+2. <a href="https://verymeticulous.github.io/wikAPEdia/resources.html" target="_blank">Resources</a>, Tools, and Websites
+3. <a href="https://verymeticulous.github.io/wikAPEdia/wealth-management.html/" target="_blank">Wealth Management DD</a>
+4. <a href="https://verymeticulous.github.io/wikAPEdia/regulations.html" target="_blank">Regulations</a>, What They Do, and Where to Find Them 
+5. <a href="https://verymeticulous.github.io/wikAPEdia/glossary.html" target="_blank">Glossary</a> of Commonly Used Terms and Acronyms by the Community
 
 ### Search by Title 
 ![search-by-title](https://user-images.githubusercontent.com/82035192/124510826-a6ee2f00-dda2-11eb-9d9b-d06f7733ebf1.gif)
@@ -36,7 +50,7 @@ This repository of GME-related content and relevant information serves two prima
 
 ## Reading Markdown Files on Mac & Windows
 
-**So, you donwloaded wikAPEdia to your local machine, but now you're probably asking yourself "how do I read these markdown or md files?"**
+**So, you donwloaded wikAPEdia to your computer, but now you're probably asking yourself "how do I read these markdown or md files?"**
 
 **Here are some tools to view markdown files.**
 
@@ -102,6 +116,6 @@ _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main
 ---
 
 ## 🆘 How to Help 🆘
-Can't find content in wikAPEdia that you think should be archived? Don't hesitate to reach out to me on [Reddit](https://www.reddit.com/user/Meticulous-)!
+Can't find content in wikAPEdia that you think should be archived? <a href="http://example.com/" target="_blank">Submit an issue on wikAPEdia </a> or directly message [me](https://www.reddit.com/user/Meticulous-) or [u/jsmar18](https://www.reddit.com/user/jsmar18/) on Reddit!
 
 ### Buy, Hodl, ~~Vote~~ 💎🙌
