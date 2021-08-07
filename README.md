@@ -68,7 +68,7 @@ You'll be able to find browse multiple compilations of due diligence (DD) like:
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
-| Resource | wikAPEdia - The Website (Beta) | [u/Meticulous-](https://www.reddit.com/u/Meticulous-/) | [verymeticulous.github.io/wikAPEdia](https://verymeticulous.github.io/wikAPEdia/)
+| Resource | [Library](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Library of DD, Art Books, and Periodicals](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/)
 
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
