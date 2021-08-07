@@ -4,7 +4,7 @@
 
 | Author       | Source       | 
 | :-------------: |:-------------:|
-|  [u/leavemeanon](https://www.reddit.com/user/leavemeanon/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/nsuf5l/where_are_the_shares_a_beginners_guide_to_hiding/) | 
+|  [u/leavemeanon](https://www.reddit.com/user/leavemeanon/) | [Reddit](https://web.archive.org/web/20210605141015/https://www.reddit.com/r/Superstonk/comments/nsuf5l/where_are_the_shares_a_beginners_guide_to_hiding/) | 
 
 ---
 
