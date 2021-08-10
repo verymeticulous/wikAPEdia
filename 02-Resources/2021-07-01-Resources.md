@@ -1,6 +1,6 @@
 # Resources
 
-| Last Updated | July 7, 2021 |
+| Last Updated | August 10, 2021 |
 | :---: | :---: |
 
 | Name | Description |
@@ -40,6 +40,7 @@
 | [Tax My Tendies](https://taxmytendies.com/) | Tools that helps you calculate how much you'll owe in taxes post-MOASS. (US only). |
 | [Gamestop NFT](https://nft.gamestop.com/) | GameStops' official NFT website |
 | [GME NFT Relationships](https://github.com/schismsaints/GME_NFT) | Graphic that shows the relationships between GME tokens. |
+| [MoonTimers](https://www.moontimers.com/home/all) | Website and [repository](https://github.com/jlevy-io/moontimers) of GME-related events. |
 
 *Table inspired by [u/Truffluscious](https://www.reddit.com/user/Truffluscious/)*
 
