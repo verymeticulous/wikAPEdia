@@ -68,8 +68,8 @@ You'll be able to find browse multiple compilations of due diligence (DD) like:
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
-| Resource | [Library](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Library of DD, Art Books, and Periodicals](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/)
-
+| Resource | [Library of DD, Art Books, and Periodicals](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/) |
+| Resource | Tools of the Trade - Pinception | [u/Pin-ception](https://www.reddit.com/user/Pin-ception/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p1q4kv/tools_of_the_trade_pinception/) |
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
 
