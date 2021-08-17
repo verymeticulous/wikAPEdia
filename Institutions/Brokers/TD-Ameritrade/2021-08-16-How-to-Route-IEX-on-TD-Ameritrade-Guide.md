@@ -17,3 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/82035192/129722378-2e298897-d910-4a17-b285-5dad29dabc0e.png)
 
+---
+
+**Note by [u/OccasionQuick](https://www.reddit.com/user/OccasionQuick/)**
+> You might have to enable directing routing 1st on the previous page but otherwise thank you for showing me how
