@@ -20,6 +20,17 @@ This repository of GME-related content and relevant information serves two prima
 
 ---
 
+## Featured Posts and Important Information
+| Theme | Title      |  Author  | Source |
+| :-------------: | :-------------: |:-------------:| :-------------:|
+| Resource | [Library of DD, Art Books, and Periodicals](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/) |
+| Resource | Tools of the Trade - Pinception | [u/Pin-ception](https://www.reddit.com/user/Pin-ception/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p1q4kv/tools_of_the_trade_pinception/) |
+| Resource | A Non-Exhaustive New User Intro to GME | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p4aa7o/a_nonexhaustive_new_user_intro_to_gme_pinception/) |
+
+_Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
+
+---
+
 ## Key Features
 
 ### Website
@@ -62,17 +73,6 @@ You'll be able to find browse multiple compilations of due diligence (DD) like:
 
 
 ### ⚠️ I am not affiliated with any of the above tools  ⚠️
-
----
-
-## Featured Posts and Important Information
-| Theme | Title      |  Author  | Source |
-| :-------------: | :-------------: |:-------------:| :-------------:|
-| Resource | [Library of DD, Art Books, and Periodicals](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/) |
-| Resource | Tools of the Trade - Pinception | [u/Pin-ception](https://www.reddit.com/user/Pin-ception/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p1q4kv/tools_of_the_trade_pinception/) |
-| Resource | A Non-Exhaustive New User Intro to GME | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p4aa7o/a_nonexhaustive_new_user_intro_to_gme_pinception/) |
-
-_Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
 
 ---
 
