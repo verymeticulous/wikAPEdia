@@ -2,101 +2,98 @@
 
 ---
 
-|Term | Description |
-|:-:|:-|
-| **After hours (AH)** | After market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. After-hours trading sessions can run as late as 8PM Eastern Time.[[1]](https://www.investopedia.com/terms/a/afterhourstrading.asp) |
-| **All time high (ATH)** | The highest price or volume on record for a given security.[[2]](https://www.investopedia.com/terms/r/record_high.asp) |
-| **Assets under management (AUM)** | Similar to net worth except for financial institutions. The approximate value of their positions and cash. There are different categories of assets under management.[[3]](https://www.investopedia.com/terms/a/aum.asp) |
-| **Bear market** | When market conditions produce prolonged and/or substantial declines. |
-| **Beta** | A measurement of the volatility of a stock compared to the market in general (the S&P 500 for the most part).[[4]](https://www.investopedia.com/terms/b/beta.asp)) |
-| **Bearish** | A belief that the value of a thing will fall. |
-| **Board of directors** | Often referred to as "the board." Required for public companies (i.e. companies with stock tickers). The board is generally supposed to be a kind of independent entity that looks out for shareholders, sets policy for how the company operates, and holds company officials to account. |
-| **Bollinger bands** | A technical indicator that emphasizes boundaries for price movements.[[5]](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/bollinger-bands#:~:text=Bollinger%20Bands%20are%20envelopes%20plotted,moving%20average%20of%20the%20price.&text=Bollinger%20bands%20help%20determine%20whether,conjunction%20with%20a%20moving%20average.) |
-| **Bonds** | A debt security that pays interest.[[6]](https://www.investopedia.com/terms/b/bond.asp) |
-| **Bull market** | When market conditions produce rising prices or are expected to produce rising prices. |
-| **Bullish** | A belief that the value of a thing will rise. |
-| **Call** | An options contract that gives the buyer of the contract the ability to purchase 100 shares of a given underlying asset for a specified price before a given expiration. A call can be referred to as "deep" if its strike price is far away from the current underlying price.[[7]](https://www.investopedia.com/terms/c/calloption.asp) |
-| **Circuit breaker** | Put in place to interrupt price changing momentum and make sure that information is properly disseminated throughout the market when big moves happen. Could apply to the entire market or specific securities |
-| **Collateral** | Assets or cash provided to a lender to give them an acceptable risk exposure profile.[[8]](https://www.investopedia.com/terms/c/collateral.asp) |
-| **Consolidation** | Periods of time where the price of a security bounces around between a rough high and a rough low. |
-| **Covering** | The act of buying back shares that have been short sold. |
-| **Cryptocurrency** | Also called "crypto" by godless apes. Virtual coins that tend to have public ledgers (i.e. blockchains) for transaction integrity.[[9]](https://www.investopedia.com/terms/c/cryptocurrency.asp) |
-| **Dark pool** | A private exchange that is allegedly designed to allow large trades that do not affect the market price of a security as a result of bookkeeping share transfers.[[10]](https://www.investopedia.com/terms/d/dark-pool.asp) |
-| **Diamond hands** | Being rational about your holdings and not allowing common emotional biases to dictate your entries or exits. Specifically holding regardless of gains or losses. |
-| **Deep option** | An options contract where the strike price is very far away from the current underlying price. |
-| **Derivative** | A position that derives its value from something else. For example, options are derivatives of their underlying assets. |
-| **Depository Trust and Clearing Corporation (DTCC)** | A self-regulatory organization that handles the backend of trade settlements. [Learn more here](https://www.investopedia.com/terms/d/dtcc.asp). |
-| **Dividends** | Some securities will occasionally pulse profits per share out to investors directly. |
-| **Due diligence (DD)** | Information and data organized in a meaningful way to support a conclusion. |
-| **Elliot waves** | A technical indicator that characterizes price movements based on how price movements typically occur. [More information here](https://elliottwave-forecast.com/elliott-wave-theory/). |
-| **Exchange-traded fund (ETF**) | A type of mutual fund that is bought or sold on exchanges throughout the day. Most of them are index funds. |
-| **Exit** | Closing a position. |
-| **Exit Strategy** | A plan about when and how to close a position. |
-| **Failure to deliver (FTD)** | A failure to produce a share for settlement within the standard settlement timeframe. |
-| **Fear, uncertainty, and doubt (FUD)** | Fairly self-explanatory once the acronym is expanded. |
-| **Float** | The number of shares available for public trading as opposed to restricted stock or stock held by company insiders. |
-| **Fundamental investing/trading** | Investing or trading on the basis of balance sheets, earnings reports, sector information, and general financial environment information. |
-| **Gamma squeeze** | When hedging against an option causes a chain reaction and the price spikes or plummets. For example, suppose an XYZ $10 call has been sold naked when XYZ's price is $4. Then someone buys calls for $5, $6, $7, $8, and $9. The $5 one likely requires all the shares to be purchased as a hedge, driving up the price. Which then increases the amount of shares needed to hedge for the $6, and so on. |
-| **Hedge fund (HF)** | A type of pooled investment fund that actively manages positions in an attempt to make a profit. They tend to use complex trading, portfolio construction, and risk management techniques. |
-| **Hedging** | Opening positions that will mitigate losses for your primary guesses about asset price direction.. |
-| **High-frequency Trading (HFT)** | A method of trading huge volumes in fractions of a second. |
-| **Hold on for dear life (HODL)** | The mating cry of the ape. |
-| **In the money (ITM)** | An options contract where the underlying asset price has reached the strike price. Can be referred to as a "deep" option which means it's far away from the current underlying price. |
-| **Index fund** | A type of mutual fund that holds the same securities in the same proportions as a specific stock market or bond index. Most exchange-traded funds are index funds. |
-| **Limit order** | An order type that expresses a desire to exchange a security at a specific price or better. |
-| **Liquidation** | When positions are closed, usually by force of margin call. Usually large positions and usually liquidated quickly, causing very large changes in price. |
-| **Liquidity** | The property of being able to be exchanged for cash quickly. More liquid securities can be exchanged quickly for cash and less liquid securities might have delays. If there is a liquidity problem with an entity, you might not be able to get cash from an entity. |
-| **Long** | Indicates a bullish strategy such as buying calls, selling puts, buying and holding stock, etc. The belief is that the value will go up. |
-| **Mainstream media (MSM)** | Collectively, the media that a regular person might view. Television news channels, newspapers, magazines, etc. Generally they're recognizable household names. |
-| **Market Makers (MM)** | A firm or individual that buys and sell securities for its own account, at prices it displays in its exchange's trading system, with the primary goal of profiting on the bid-ask spread. |
-| **Margin account** | Essentially an account that gives you temporary loans to increase your ability to take advantage of market conditions. |
-| **Margin cal**l | When a financial institution demands additional collateral to maintain a lower risk exposure profile. Also a movie that dramatically depicts something like the 2008 financial crisis from the perspective of a company that is overleveraged. |
-| **Max pain** | The price at which the largest number of option holders will suffer financial losses at expiration. |
-| **Mother of all short squeezes (MOASS)** | It's the big one. See short squeeze. |
-| **Moving average convergence/divergence (MACD**) | A technical indicator that emphasizes changes in pricing trends. [More information here](https://en.wikipedia.org/wiki/MACD). |
-| **Mutual fund** | A security that allocates its funds to different underlying securities in a proportion. Exchange-traded funds are a type of mutual fund. Buying a mutual fund is like buying a portfolio. They tend to be designed to diversify holdings and reduce risk for the holder. They are bought or sold based on their price at the day's end. |
-| **Naked Short** | The illegal practice of short selling shares that have not been affirmatively determined to exist. |
-| **Non-fungible Tokens (NFTs)** | A way to represent anything unique as an Ethereum-based asset. |
-| **On Balance Volume (OBV)** | Measures the buying and selling presure as a cumulative indicator (e.g. adds volume on up days and subtracts volume on down days)[[11]](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/obv) |
-| **Open interest** | Indicates how many of a particular kind of position are being carried from day to day. |
-| **Option** | A contact that allows the buying or selling of 100 shares of an underlying asset for a specified price before an expiration. Options have an extrinsic value (commonly known as decay or time value) and potentially intrinsic value (strike price difference with underlying asset price). The seller of an option is also called the writer. |
-| **Out of the money (OTM)** | An options contract where the underlying asset price has not reached the strike price. Can be referred to as a "deep" option which means it's far away from the current underlying price. |
-| **Over the counter (OTC)** | Used to describe transactions done on dark pools. Honestly should be "under the counter" instead. |
-| **Paper hands** | Allowing your emotions to dictate your investment or trading behavior. Specifically not holding through gains and losses. |
-| **Payment for order flow (PFOF)** | A compensation scheme between brokerages and market makers where retail investor orders get routed through the market makers. This is opposed to the retail investor paying the brokerage a commission on trades. |
-| **Portfolio** | A collection of positions. |
-| **Position** | A purchased or borrowed stake of an asset or derivative. |
-| **Postmarket** | After market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. Some trading days have an early close and some trading days don't happen on account of holidays. |
-| **Premarket** | Before market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. Some trading days have an early close and some trading days don't happen on account of holidays. |
-| **Pump and dump** | The technical meaning of this term is a scheme designed to temporarily boost the price of a security through false, misleading, or exaggerated claims. Commonly, people may refer to any substantial price move up followed by a drop as a pump and dump even if it doesn't qualify for the technical meaning. |
-| **Put** | An options contract that gives the buyer of the contract the ability to sell 100 shares of a given underlying asset for a specified price before a given expiration. A put can be referred to as "deep" if its strike price is far away from the current underlying price. |
-| **Regulation SHO** | [Learn more here](https://www.sec.gov/investor/pubs/regsho.htm). Designed to address abusive short selling practices. |
-| **Relative Strength Index (RSI)** | The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. |
-| **Restricted stock** | Stock that is subject to conditions about when and how transfers take place. |
-| **Securities and Exchange Commission (SEC)** | A regulatory and enforcement agency of the United States federal government. [More info here](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission). |
-| **Settlement** | The process that happens transparently to you after you buy or sell a position. You might own that position on paper, but it takes time for everything to go through. |
-| **Shill** | A person or bot that is making posts designed to sow fear, uncertainty, and doubt. |
-| **Short** | Indicates a bearish strategy such as selling calls, buying puts, or short selling stock. The belief is that the value will go down. Also used as a shorthand for "short selling." |
-| **Short attack** | A planned and coordinated attack by an activist short seller that involves taking out a large short position and then attempting to drive the price down with negative information. |
-| **Short hedge fund (SHF)** | A hedge fund that primarily has a short position in a security. |
-| **Short interest** | The open interest of short shares, typically expressed as a percentage of float. |
-| **Short ladder attack** | Something that was not in common usage before the GameStop saga. There is not common agreement on the specific technical meaning of the word. I've seen some people say it's actually "wash sale" (which is itself an overloaded term - in this context would be transactions where the buyer and seller are the same entity). To the best I can tell, it refers to a mechanism of price manipulation where one or more parties short at a specific price level to cause the price to drop and then proceed to do it some more after the price has dropped (hence, a ladder). |
-| **Short sale restriction (SSR)** | When a security drops by 10% or more from the previous day's closing price, it gets put on short sale restriction. This prevents short selling on "downticks" (price movements downward). Once invoked, it's active until the end of the next trading day, provided that the stock doesn't re-trigger the effect. |
-| **Short selling** | An arrangement where a party will borrow shares of a stock from a stock holder for a regular fee and sell the shares on the market. At a later time, they will buy back the shares to cover and return them to the lender. The idea is to profit on the reduction in the stock price by selling immediately and buying back later. If the company goes bankrupt, then there's no need for covering. |
-| **Short squeeze** | A situation where there are more shares sold short than can be covered on current liquidity. This causes the price to spike because demand exceeds supply. |
-| **Smooth brain** | An expression that refers to a person with a lower level of thinking or the ability to understand simple concepts. |
-| **Special purpose acquisition companies (SPACs)** | A company with no commercial operations. It exists entirely to raise capital and buy an existing company. |
-| **Stocks** | Securities representing companies, assets, or baskets of companies and assets. They have a price and the value changes over time. |
-| **Stop loss** | An order type that allows you to limit the downside of a position |
-| **Strike price** | The arranged price of an options contract. It is set when the contract is opened and cannot be changed. |
-| **Synthetic share** | Formed when a share is sold short. The share is borrowed and then the buyer also has a share. Now there are two shares. |
-| **T+#** | Number of days after the transaction. T+2 means two days after the transaction. Lots of rules surrounding settlement are done on the basis of the transaction date. |
-| **Technical Analysis (TA)** | Investing or trading on the basis of chart patterns. |
-| **Tendies** | Gains or returns on investment. |
-| **Trading sideways** | Periods of time where the price of a security does not move very much. |
-| **Unrealized** | Gains or losses of a security are unrealized until you close the position. | 
-| **Volatility** | The amount of movement of a measurement. Low price volatility means the price does not move much, for example. The term "volatility" is used for both prices and volumes and can be as specific as a stock or as broad as the market. Options have an implied volatility component. |
-| **Volume** | The quantity of transactions for a given security. Volume is typically measured against the 10-day average for volume.|  
-| **Whale** | A person or institute with large sums of cash. |
+|Term|Description|
+|:-|:-|
+|**After hours (AH)**|After market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. After-hours trading sessions can run as late as 8PM Eastern Time.[^(\[1\])](https://www.investopedia.com/terms/a/afterhourstrading.asp)|
+|**All time high (ATH)**|The highest price or volume on record for a given security.[^(\[2\])](https://www.investopedia.com/terms/r/record_high.asp)|
+|**Assets under management (AUM)**|Similar to net worth except for financial institutions. The approximate value of their positions and cash. There are different categories of assets under management.[^(\[3\])](https://www.investopedia.com/terms/a/aum.asp)|
+|**Bear market**|When market conditions produce prolonged and/or substantial declines.[^(\[4\])](https://www.investopedia.com/terms/b/bearmarket.asp)|
+|**Beta**|A measurement of the volatility of a stock compared to the market in general (the S&P 500 for the most part).[^(\[5\])](https://www.investopedia.com/investing/beta-know-risk/#:~:text=Beta%20is%20a%20measure%20of,relation%20to%20the%20overall%20market.&text=If%20a%20stock%20moves%20less,risk%20but%20also%20lower%20returns)|
+|**Bearish**|A belief that the value of a thing will fall.|
+|**Bollinger bands**|A technical indicator that emphasizes boundaries for price movements.[^(\[6\])](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/bollinger-bands#:~:text=Bollinger%20Bands%20are%20envelopes%20plotted,moving%20average%20of%20the%20price.&text=Bollinger%20bands%20help%20determine%20whether,conjunction%20with%20a%20moving%20average.)|
+|**Bonds**|A debt security that pays interest.[^(\[7\])](https://www.investopedia.com/terms/b/bond.asp)|
+|**Bull market**|When market conditions produce rising prices or are expected to produce rising prices.[^(\[8\])](https://www.investopedia.com/terms/b/bullmarket.asp)|
+|**Bullish**|A belief that the value of a thing will rise.|
+|**Call**|An options contract that gives the buyer of the contract the ability to purchase 100 shares of a given underlying asset for a specified price before a given expiration. A call can be referred to as "deep" if its strike price is far away from the current underlying price.[^(\[9\])](https://www.investopedia.com/terms/c/calloption.asp)|
+|**Circuit breaker**|Put in place to interrupt price changing momentum and make sure that information is properly disseminated throughout the market when big moves happen. Could apply to the entire market or specific securities.[^(\[10\])](https://www.nasdaqtrader.com/trader.aspx?id=CircuitBreaker)|
+|**Collateral**|Assets or cash provided to a lender to give them an acceptable risk exposure profile.[^(\[11\])](https://www.investopedia.com/terms/c/collateral.asp)|
+|**Consolidation**|Periods of time where the price of a security bounces around between a rough high and a rough low. (See [image](https://qph.fs.quoracdn.net/main-qimg-3e306da105cb13e8f83a6b41ae4ac3a1))|
+|**Covering**|The act of buying back shares that have been short sold.|
+|**Cryptocurrency aka "Crypto"**|Cryptocurrency is a digital asset distributed across a decentralized network (e.g. many computers) .[^(\[12\])](https://www.investopedia.com/terms/c/cryptocurrency.asp)|
+|**Dark pool**|A private exchange that is allegedly designed to allow large trades that do not affect the market price of a security as a result of bookkeeping share transfers.[^(\[13\])](https://www.investopedia.com/terms/d/dark-pool.asp)|
+|**Diamond hands**|Being rational about your holdings and not allowing common emotional biases to dictate your entries or exits. Specifically holding regardless of gains or losses.|
+|**Deep option**|An options contract where the strike price is very far away from the current underlying price.|
+|**Derivative**|A position that derives its value from something else. For example, options are derivatives of their underlying assets.[^(\[14\])](https://en.wikipedia.org/wiki/Derivative_(finance))|
+|**Depository Trust and Clearing Corporation (DTCC)**|A self-regulatory organization that handles the backend of trade settlements. Some subsidiaries of the DTCC include the NSCC, DTC, and FICC. [^(\[15\])](https://www.investopedia.com/terms/d/dtcc.asp)[^(\[16\])](https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation)|
+|**Dividend**|Sum of money paid regularly, typically every quarter, by a company to its shareholders.[^(\[17\])](https://www.investopedia.com/terms/d/dividend.asp)|
+|**Due diligence (DD)**|Information, data, and research organized in a meaningful way to support a conclusion. Also referred to as doubling down.  ( ͡°Ɛ ͡°)|
+|**Elliot Wave Theory**|A technical indicator that characterizes price movements based on how price movements typically occur.[^(\[18\])](https://www.investopedia.com/terms/e/elliottwavetheory.asp)|
+|**Exchange-traded fund (ETF**)|A type of mutual fund that is bought or sold on exchanges throughout the day. Most of them are index funds.[^(\[19\])](https://www.investopedia.com/terms/e/etf.asp#)|
+|**Exit**|Closing a position.|
+|**Exit Strategy**|A plan about when and how to close a position. [Learn more here.](https://github.com/verymeticulous/wikAPEdia/tree/main/Exit-Strategy)|
+|**Failure to deliver (FTD)**|A failure to produce a share for settlement within the standard settlement timeframe.[^(\[20\])](https://www.investopedia.com/terms/f/failuretodeliver.asp)|
+|**Fear, uncertainty, and doubt (FUD)**|Propaganda tactic to influence perception. [Learn more here](https://github.com/verymeticulous/wikAPEdia/tree/main/FUD).|
+|**Float**|The number of shares available for public trading as opposed to restricted stock or stock held by company insiders.[^(\[21\])](https://www.investopedia.com/ask/answers/what-is-companys-float/#)|
+|**Fundamentals (Stock)**|Investing or trading based on data of a stock. Some examples include cash flow, projected earnings, debt to equity, etc.[^(\[22\])](https://www.investopedia.com/articles/fundamental/03/022603.asp)|
+|**Gamma squeeze**|Massive call buying leading to higher stock prices, which in turn leads to more call buying, further increasing the stock price.[^(\[28\])](https://www.yahoo.com/now/gamma-squeeze-193213870.html)[^(\[29\])](https://smartasset.com/investing/call-option)|
+|**Hedge fund (HF)**|A type of pooled investment fund that actively manages positions in an attempt to make a profit.[^(\[23\])](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/hedge-funds)|
+|**Hedging**|Buying or selling securities to help reduce the risk of loss for an existing position.[^(\[24\])](https://www.fidelity.com/learning-center/trading-investing/hedging)|
+|**High-frequency Trading (HFT)**|Algorithmic trading method conducted by computers to transact large numbers of orders in fractions of a second.[^(\[25\])](https://www.investopedia.com/terms/h/high-frequency-trading.asp)|
+|**Hold on for dear life (HODL)**|The mating cry of the ape.|
+|**In the money (ITM)**|An options contract where the underlying asset price has reached the strike price. Can be referred to as a "deep" option which means it's far away from the current underlying price.[^(\[26\])](https://www.investopedia.com/ask/answers/042215/when-call-option-considered-be-money.asp#)|
+|**Index fund**|A type of mutual fund that holds the same securities to match or track components of a financial market index.[^(\[27\])](https://www.investopedia.com/terms/i/indexfund.asp)|
+|**Limit order**|An order type that expresses a desire to exchange a security at a specific price or better.[^(\[30\])](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders)[^(\[31\])](https://www.investopedia.com/terms/l/limitorder.asp)|
+|**Liquidation**|When positions are closed, usually by force of margin call. Usually large positions and usually liquidated quickly, causing very large changes in price.[^(\[32\])](https://www.investopedia.com/terms/l/liquidate.asp)|
+|**Liquidity**|The property of being able to be exchanged for cash quickly. More liquid securities can be exchanged quickly for cash and less liquid securities might have delays. If there is a liquidity problem with an entity, you might not be able to get cash from an entity.[^(\[33\])](https://www.investopedia.com/terms/l/liquidity.asp)|
+|**Long**|Indicates a bullish strategy such as buying calls, selling puts, buying and holding stock, etc. The belief is that the value will go up.|
+|**Mainstream media (MSM)**|Collectively, the media that a regular person might view. Television news channels, newspapers, magazines, etc. Generally they're recognizable household names.|
+|**Market Makers (MM)**|A firm or individual that buys and sell securities for its own account, at prices it displays in its exchange's trading system, with the primary goal of profiting on the bid-ask spread.[^(\[34\])](https://www.investopedia.com/terms/m/marketmaker.asp#:~:text=A%20market%20maker%20(MM)%20is,the%20market%20size%20of%20each.&text=Market%20makers%20provide%20liquidity%20and,in%20the%20bid%2Dask%20spread)|
+|**Margin account**|Essentially an account that gives you temporary loans to increase your ability to take advantage of market conditions.[^(\[35\])](https://www.investopedia.com/terms/m/marginaccount.asp#:~:text=A%20margin%20account%20is%20a,with%20a%20periodic%20interest%20rate)[^(\[36\])](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_marginaccount)[^(\[37\])](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)|
+|**Margin cal**l|When a financial institution demands additional collateral to maintain a lower risk exposure profile. Also a movie that dramatically depicts something like the 2008 financial crisis from the perspective of a company that is overleveraged.[^(\[37\])](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)[^(\[38\])](https://www.investopedia.com/terms/m/margincall.asp)[^(\[39\])](https://www.fidelity.com/learning-center/trading-investing/trading/avoiding-and-managing-margin-calls)|
+|**Max pain**|The price at which the largest number of option holders will suffer financial losses at expiration.[^(\[40\])](https://www.investopedia.com/terms/m/maxpain.asp)|
+|**Mother of all short squeezes (MOASS)**|It's the big one. See short squeeze.|
+|**Moving average convergence/divergence (MACD**)|A technical indicator that emphasizes changes in pricing trends.[^(\[41\])](https://www.investopedia.com/trading/macd/)[^(\[42\])](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/macd)|
+|**Mutual fund**|A security that allocates its funds to different underlying securities in a proportion. Exchange-traded funds are a type of mutual fund. Buying a mutual fund is like buying a portfolio. They tend to be designed to diversify holdings and reduce risk for the holder. They are bought or sold based on their price at the day's end.[^(\[43\])](https://www.investopedia.com/terms/m/mutualfund.asp)|
+|**Naked Short**|The illegal practice of short selling shares that have not been affirmatively determined to exist. [Learn more here](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/).[^(\[44\])](https://www.investopedia.com/terms/n/nakedshorting.asp)|
+|**Non-fungible Tokens (NFTs)**|A way to represent anything unique as an Ethereum-based asset.[^(\[45\])](https://ethereum.org/en/nft/)[^(\[46\])](https://en.wikipedia.org/wiki/Non-fungible_token)|
+|**On Balance Volume (OBV)**|Measures the buying and selling pressure as a cumulative indicator. (e.g. adds volume on up days and subtracts volume on down days)[^(\[47\])](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/obv)|
+|**Open interest**|Indicates how many of a particular kind of position are being carried from day to day.[^(\[48\])](https://www.investopedia.com/terms/o/openinterest.asp#:~:text=Open%20interest%20is%20the%20total,every%20buy%20and%20sell%20contract)|
+|**Option**|A contract that allows the buying or selling of 100 shares of an underlying asset for a specified price before an expiration. Options have an extrinsic value (commonly known as decay or time value) and potentially intrinsic value (strike price difference with underlying asset price). The seller of an option is also called the writer.[^(\[49\])](https://www.investopedia.com/terms/o/option.asp)[^(\[50\])](https://en.wikipedia.org/wiki/Option_(finance))|
+|**Out of the money (OTM)**|An options contract where the underlying asset price has not reached the strike price. Can be referred to as a "deep" option which means it's far away from the current underlying price.[^(\[51\])](https://www.investopedia.com/terms/o/outofthemoney.asp)|
+|**Over the counter (OTC)**|Used to describe transactions done on dark pools. Honestly should be "under the counter" instead.[^(\[52\])](https://www.investopedia.com/terms/o/otc.asp#:~:text=Key%20Takeaways-,Over%2Dthe%2Dcounter%20(OTC)%20refers%20to%20the%20process,listed%20on%20a%20formal%20exchange.&text=OTC%20trading%20helps%20promote%20equity,through%20the%20sale%20of%20stock)|
+|**Paper hands**|Allowing your emotions to dictate your investment or trading behavior. Specifically not holding through gains and losses.|
+|**Payment for order flow (PFOF)**|A compensation scheme between brokerages and market makers where retail investor orders get routed through the market makers. This is opposed to the retail investor paying the brokerage a commission on trades.[^(\[53\])](https://www.investopedia.com/terms/p/paymentoforderflow.asp)[^(\[54\])](https://www.sec.gov/news/studies/ordpay.htm)|
+|**Portfolio**|A collection of positions.|
+|**Position**|A purchased or borrowed stake of an asset or derivative.|
+|**Pre-market**|Before market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. Some trading days have an early close and some trading days don't happen on account of holidays.[^(\[55\])](https://www.investopedia.com/terms/p/premarket.asp)|
+|**Pump and dump**|The technical meaning of this term is a scheme designed to temporarily boost the price of a security through false, misleading, or exaggerated claims. Commonly, people may refer to any substantial price move up followed by a drop as a pump and dump even if it doesn't qualify for the technical meaning.[^(\[56\])](https://www.investopedia.com/terms/p/pumpanddump.asp)|
+|**Put**|An options contract that gives the buyer of the contract the ability to sell 100 shares of a given underlying asset for a specified price before a given expiration. A put can be referred to as "deep" if its strike price is far away from the current underlying price.[^(\[57\])](https://www.investopedia.com/terms/p/put.asp)[^(\[58\])](https://www.investopedia.com/terms/p/putoption.asp)|
+|**Regulation SHO**|A rule created by the SEC in 2005 designed to address abusive short selling practices.[^(\[59\])](https://www.investopedia.com/terms/r/regsho.asp#:~:text=Regulation%20SHO%20is%20a%202005,at%20curtailing%20naked%20short%20selling)[^(\[60\])](https://www.sec.gov/investor/pubs/regsho.htm)[^(\[61\])](https://www.sec.gov/divisions/marketreg/mrfaqregsho1204.htm)|
+|**Relative Strength Index (RSI)**|The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.[^(\[62\])](https://www.investopedia.com/terms/r/rsi.asp)|
+|**Restricted stock**|Stock that is subject to conditions about when and how transfers take place.[^(\[63\])](https://www.investopedia.com/terms/r/restrictedstock.asp#:~:text=Restricted%20stock%20refers%20to%20unregistered,Exchange%20Commission%20(SEC)%20regulations)|
+|**Securities and Exchange Commission (SEC)**|A regulatory and enforcement agency of the United States federal government. [More info here](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission).|
+|**Settlement**|The process that happens transparently to you after you buy or sell a position. You might own that position on paper, but it takes time for everything to go through.|
+|**Shill**|A person or bot that is making posts designed to sow fear, uncertainty, and doubt.|
+|**Short**|Indicates a bearish strategy such as selling calls, buying puts, or short selling stock. The belief is that the value will go down. Also used as a shorthand for "short selling."[^(\[64\])](https://www.investopedia.com/terms/s/short.asp)|
+|**Short attack**|A planned and coordinated attack by an activist short seller that involves taking out a large short position and then attempting to drive the price down with negative information. [Learn more here](https://seekingalpha.com/instablog/11442671-gerald-klein/3096735-anatomy-of-a-short-attack).|
+|**Short hedge fund (SHF)**|A hedge fund that primarily has a short position in a security.|
+|**Short interest**|The open interest of short shares, typically expressed as a percentage of float.\[^(\[65\])\]([https://www.investopedia.com/terms/s/shortinterest.asp#:\~:text=Short%20interest%20is%20the%20number,(potentially%20overly%2Dpessimistic)](https://www.investopedia.com/terms/s/shortinterest.asp#:~:text=Short%20interest%20is%20the%20number,(potentially%20overly%2Dpessimistic))|
+|**Short sale restriction (SSR)**|When a security drops by 10% or more from the previous day's closing price, it gets put on short sale restriction. This prevents short selling on "downticks" (price movements downward). Once invoked, it's active until the end of the next trading day, provided that the stock doesn't re-trigger the effect.[^(\[66\])](https://www.sec.gov/answers/shortrestrict.htm)[^(\[67\])](https://www.nasdaqtrader.com/trader.aspx?id=shortsalecircuitbreaker)|
+|**Short selling**|An arrangement where a party will borrow shares of a stock from a stock holder for a regular fee and sell the shares on the market. At a later time, they will buy back the shares to cover and return them to the lender. The idea is to profit on the reduction in the stock price by selling immediately and buying back later. If the company goes bankrupt, then there's no need for covering.|
+|**Short squeeze**|A situation where there are more shares sold short than can be covered on current liquidity. This causes the price to spike because demand exceeds supply.[^(\[68\])](https://www.investopedia.com/terms/s/shortsqueeze.asp#:~:text=A%20short%20squeeze%20is%20an,stock%20or%20other%20tradeable%20security.&text=The%20short%20squeeze%20begins%20when,losses%20and%20exit%20their%20positions)|
+|**Smooth brain**|An expression that refers to a person with a lower level of thinking or the ability to understand simple concepts.|
+|**Special purpose acquisition companies (SPACs)**|A company with no commercial operations. It exists entirely to raise capital and buy an existing company.[^(\[69\])](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-you)^(Nice) [^(\[70\])](https://www.investopedia.com/terms/s/spac.asp)|
+|**Stocks**|Securities representing companies, assets, or baskets of companies and assets. They have a price and the value changes over time.|
+|**Stop loss**|An order type that allows you to limit the downside of a position.[^(\[71\])](https://www.investopedia.com/terms/s/stop-lossorder.asp)|
+|**Strike price**|The arranged price of an options contract. It is set when the contract is opened and cannot be changed^(.)[^(\[72\])](https://www.investopedia.com/terms/s/strikeprice.asp#:~:text=A%20strike%20price%20is%20the,the%20security%20can%20be%20sold)|
+|**Synthetic share**|Formed when a share is sold short. The share is borrowed and then the buyer also has a share. Now there are two shares.[^(\[73\])](https://www.nasdaq.com/glossary/s/synthetic-stock)[^(\[74\])](https://www.investopedia.com/articles/optioninvestor/08/synthetic-options.asp#:~:text=A%20synthetic%20put%20is%20an,option%20on%20that%20same%20stock)|
+|**T+#**|Number of days after the transaction. T+2 means two days after the transaction. Lots of rules surrounding settlement are done on the basis of the transaction date.[^(\[75\])](https://www.investopedia.com/terms/t/tplus1.asp)|
+|**Technical Analysis (TA)**|Investing or trading on the basis of chart patterns.[^(\[76\])](https://www.investopedia.com/terms/t/technicalanalysis.asp)[^(\[77\])](https://www.investopedia.com/articles/active-trading/102914/technical-analysis-strategies-beginners.asp)|
+|**Tendies**|Gains or returns on investment.|
+|**Trading sideways**|Periods of time where the price of a security does not move very much. [Learn more here](https://www.reddit.com/user/earthysoup/).|
+|**Unrealized**|Gains or losses of a security are unrealized until you close the position.[^(\[78\])](https://www.investopedia.com/ask/answers/04/021204.asp)|
+|**Volatility**|The amount of movement of a measurement. Low price volatility means the price does not move much, for example. The term "volatility" is used for both prices and volumes and can be as specific as a stock or as broad as the market. Options have an implied volatility component.[^(\[79\])](https://www.investopedia.com/terms/v/volatility.asp)|
+|**Volume**|The quantity of transactions for a given security. Volume is typically measured against the 10-day average for volume.[^(\[80\])](https://www.investopedia.com/terms/v/volume.asp)|
+|**Whale**|An investor or institute with deep pockets who can move the market by buying or selling in large volumes.|
 
-_Glossary inspired by [u/dexter_analyst](https://www.reddit.com/user/dexter_analyst/), [u/Bye_Triangle](https://www.reddit.com/u/Bye_Triangle), and [u/Hmuz1991](https://www.reddit.com/u/Hmuz1991)_
+_This resource was inspired by [u/dexter_analyst](https://www.reddit.com/user/dexter_analyst/), [u/Bye_Triangle](https://www.reddit.com/u/Bye_Triangle), and [u/Hmuz1991](https://www.reddit.com/u/Hmuz1991) and could not have been created without their their hard word!_
