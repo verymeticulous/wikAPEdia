@@ -3,6 +3,7 @@
 ---
 
 | Term | Description |
+|:-:|:-|
 | **After hours (AH)** | After market hours. US markets are generally open Monday through Friday from 9:30 AM to 4PM Eastern Time Zone. After-hours trading sessions can run as late as 8PM Eastern Time.[[1]](https://www.investopedia.com/terms/a/afterhourstrading.asp) |
 | **All time high (ATH)** | The highest price or volume on record for a given security.[[2]](https://www.investopedia.com/terms/r/record_high.asp) |
 | **Assets under management (AUM)** | Similar to net worth except for financial institutions. The approximate value of their positions and cash. There are different categories of assets under management.[[3]](https://www.investopedia.com/terms/a/aum.asp) |
