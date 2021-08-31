@@ -27,6 +27,8 @@ This repository of GME-related content and relevant information serves two prima
 | Resource | Tools of the Trade - Pinception | [u/Pin-ception](https://www.reddit.com/user/Pin-ception/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p1q4kv/tools_of_the_trade_pinception/) |
 | Resource | A Non-Exhaustive New User Intro to GME | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p4aa7o/a_nonexhaustive_new_user_intro_to_gme_pinception/) |
 | Data | Current vs Previous Run-Up | [u/isnisse](https://www.reddit.com/user/isnisse/) | [Reddit](https://github.com/verymeticulous/wikAPEdia/tree/main/Data/Current-vs-Previous-Run-Up-by-isnisse) |
+| Due Diligence | Deep Dive into SWAPs | [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/Deep-Dive-into-SWAPs-by-broccaaa) |
+| Due Diligence | The Theory of Everything | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pb22oj/the_puzzle_pieces_of_quarterly_movements_equity/) |
 
 _Check out the [Must-Read](https://github.com/verymeticulous/wikAPEdia/tree/main/Must-Read) section for more important DD_
 
