@@ -23,6 +23,7 @@ This repository of GME-related content and relevant information serves two prima
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
+| Due Diligence | T+69 | [u/gherkinit](https://www.reddit.com/user/gherkinit/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pk1g5d/t69/) |
 | News | Jungle Beat (09-03-2021) | [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/) | [Reddit](https://www.reddit.com/r/GMEJungle/comments/phdcvf/the_jungle_beat_week_of_09032021_remember_its_a_3/) |
 | Due Diligence | The Theory of Everything | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pb22oj/the_puzzle_pieces_of_quarterly_movements_equity/) |
 | Due Diligence | Deep Dive into SWAPs | [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/Deep-Dive-into-SWAPs-by-broccaaa) |
