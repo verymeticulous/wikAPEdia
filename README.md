@@ -27,8 +27,6 @@ This repository of GME-related content and relevant information serves two prima
 | News | Jungle Beat (09-03-2021) | [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/) | [Reddit](https://www.reddit.com/r/GMEJungle/comments/phdcvf/the_jungle_beat_week_of_09032021_remember_its_a_3/) |
 | Due Diligence | The Theory of Everything | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pb22oj/the_puzzle_pieces_of_quarterly_movements_equity/) |
 | Due Diligence | Deep Dive into SWAPs | [u/broccaaa](https://www.reddit.com/user/broccaaa/) | [Reddit](https://github.com/verymeticulous/wikAPEdia/tree/main/01-Must-Read/Deep-Dive-into-SWAPs-by-broccaaa) |
-| Data | Current vs Previous Run-Up | [u/isnisse](https://www.reddit.com/user/isnisse/) | [Reddit](https://github.com/verymeticulous/wikAPEdia/tree/main/Data/Current-vs-Previous-Run-Up-by-isnisse) |
-| Resource | [Library of DD, Art Books, and Periodicals](https://fliphtml5.com/bookcase/kosyg) | [u/zedinstead](https://www.reddit.com/user/zedinstead/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/oz6g75/superstonk_library_of_dd_art_books_and/) |
 | Resource | Tools of the Trade - Pinception | [u/Pin-ception](https://www.reddit.com/user/Pin-ception/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p1q4kv/tools_of_the_trade_pinception/) |
 | Resource | A Non-Exhaustive New User Intro to GME | [u/jsmar18](https://www.reddit.com/user/jsmar18/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/p4aa7o/a_nonexhaustive_new_user_intro_to_gme_pinception/) |
 
