@@ -23,6 +23,7 @@ This repository of GME-related content and relevant information serves two prima
 ## Featured Posts and Important Information
 | Theme | Title      |  Author  | Source |
 | :-------------: | :-------------: |:-------------:| :-------------:|
+| Due Diligence | Cellar Boxing - The Naked Short Selling Playbook | [u/thabat](https://www.reddit.com/user/thabat/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pmj9yk/i_found_the_entire_naked_shorting_game_plan/) |
 | Due Diligence | T+69 | [u/gherkinit](https://www.reddit.com/user/gherkinit/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pk1g5d/t69/) |
 | News | Jungle Beat (09-03-2021) | [u/pinkcatsonacid](https://www.reddit.com/user/pinkcatsonacid/) | [Reddit](https://www.reddit.com/r/GMEJungle/comments/phdcvf/the_jungle_beat_week_of_09032021_remember_its_a_3/) |
 | Due Diligence | The Theory of Everything | [u/Criand](https://www.reddit.com/user/Criand/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pb22oj/the_puzzle_pieces_of_quarterly_movements_equity/) |
