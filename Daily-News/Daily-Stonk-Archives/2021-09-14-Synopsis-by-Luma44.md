@@ -1,6 +1,12 @@
 The Daily Stonk - 14 Sept 21
 ============================
 
+| Author       | Source       | 
+| :-------------: |:-------------:|
+|  [u/Luma44](https://www.reddit.com/user/Luma44/) | [Reddit](https://www.reddit.com/r/Superstonk/comments/pnxzzj/the_daily_stonk_14_sept_21/) | 
+
+---
+
 [News 📰 | Media 📱](https://www.reddit.com/r/Superstonk/search?q=flair_name%3A%22News%20%F0%9F%93%B0%20%7C%20Media%20%F0%9F%93%B1%22&restrict_sr=1)
 
 [![r/Superstonk - The Daily Stonk - 14 Sept 21](https://preview.redd.it/l5833sr0mhn71.png?width=1600&format=png&auto=webp&s=3f2fa8bc24ee2e455e71b71a1f50221e0a3ec534)](https://preview.redd.it/l5833sr0mhn71.png?width=1600&format=png&auto=webp&s=3f2fa8bc24ee2e455e71b71a1f50221e0a3ec534)
