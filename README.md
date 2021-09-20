@@ -123,7 +123,7 @@ You'll be able to find browse multiple compilations of due diligence (DD) like:
 ## 🆘 How to Help 🆘
 Can't find content in wikAPEdia that you think should be archived? <a href="http://example.com/" target="_blank">Submit an issue on wikAPEdia </a> or directly message [me](https://www.reddit.com/user/Meticulous-) or [u/jsmar18](https://www.reddit.com/user/jsmar18/) on Reddit!
 
-### Buy, Hodl, ~~Vote~~ Shop 💎🙌🛒
+### Buy, Hodl, ~~Vote~~ Shop, Direct Register 💎🙌🛒:registered: 
 
 ![buy-now-ask-later](https://user-images.githubusercontent.com/82035192/132987614-82683bb4-835c-4e25-ad9f-1c30d76e8a91.png)
 
